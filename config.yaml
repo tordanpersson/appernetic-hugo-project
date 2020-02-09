@@ -31,7 +31,7 @@ markup:
       autoHeadingIDType: github
     renderer:
       hardWraps: false
-      unsafe: false
+      unsafe: true
       xHTML: false
 
 theme: "hugo-smorg"
