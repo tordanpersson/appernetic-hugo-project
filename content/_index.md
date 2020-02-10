@@ -1,14 +1,11 @@
 ---
 date: 2018-03-01
-draft: false
-title: "Begravning i Stockholm"
-description: "Begravning i Stockholm? Vi på ABC Lilla begravningsbyrån hjälper er att planera begravningen. Vi hjälper er med allt som hör begravningen till. Se mer här!"
-
+title: Begravning i Stockholm
+description: Begravning i Stockholm? Vi på ABC Lilla begravningsbyrån hjälper er att
+  planera begravningen. Vi hjälper er med allt som hör begravningen till. Se mer här!
 
 ---
-
-
-# En begravningsbyrå i Stockholm som hjälper dig med begravningen
+# En begravningsbyrå i Stockholm som hjälper dig med begravningen 
 
 ## Vänd Er med förtroende till oss på ABC Lilla begravningsbyrån.
 
