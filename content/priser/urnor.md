@@ -3,13 +3,12 @@ title: Billiga urnor från ABC Lilla Begravningsbyrån
 slug: Urnor
 date: 2018-03-03T17:17:17.000+00:00
 tags:
-- iot
 - recycling
 categories:
 - begravningen
 layout: subsection
-description: Vi har urnor i Stockholm i många olika stilar. Från enkla & billiga urnor
-  till exklusiva urnor i fina material. Se våra urnor här!
+description: 'Vi har urnor i Stockholm i många olika stilar. Från enkla & billiga
+  urnor till exklusiva urnor i fina material. Se våra urnor här! '
 
 ---
 # Hitta billiga urnor hos oss
