@@ -1,22 +1,21 @@
 ---
 title: Billiga Kistor för en värdig begravning
 slug: Kistor
-date: 2018-03-03T09:17:17-08:00
-draft: false
+date: 2018-03-03T17:17:17.000+00:00
 layout: subsection
-description:  "ABC Lilla begravningsbyrån hjälper dig att hitta en prisvärd & billig kista. Vi har kistor i många olika utföranden för ett vackert & värdigt avsked."
-aliases: ['/priser/kistor-och-urnor/']
+description: ABC Lilla begravningsbyrån hjälper dig att hitta en prisvärd & billig
+  kista. Vi har kistor i många olika utföranden för ett vackert & värdigt avsked.
+aliases:
+- "/priser/kistor-och-urnor/"
 
 ---
-
-
-# Prisvärda och billiga kistor
+# Prisvärda och billiga kistor
 
 När du beställer en **kremationsbegravning** det vill säga en begravning med efterföljande kremering eller en så kallad direktare en direktkremation utan ceremoni eller om ni väljer en akt med urna, så behöver ni ändå en kista. Detta för att kistan hjälper till vid kremeringen.
 
-
 ## Kistor
-Vi leverar prisvärda och billiga kistor. En **billig furukista** hos oss kostar 1.990 kr under förutsättning att man beställer eller bokar en begravning hos oss. Vill du endast köpa en *billig kista* kostar den 2.990 kr. Vi kanske har en av de lägsta priserna när det gäller kistor i Stockholm. De kistor vi har på vår hemsida är bara ett litet urval av vad vi har att erbjuda.
+
+Vi leverar prisvärda och billiga kistor. En **billig furukista** hos oss kostar 1.990 kr under förutsättning att man beställer eller bokar en begravning hos oss. Vill du endast köpa en _billig kista_ kostar den 2.990 kr. Vi kanske har en av de lägsta priserna när det gäller kistor i Stockholm. De kistor vi har på vår hemsida är bara ett litet urval av vad vi har att erbjuda.
 
 <table class="table">
 <tbody>
@@ -64,10 +63,10 @@ Vi leverar prisvärda och billiga kistor. En **billig furukista** hos oss kostar
 </table>
 
 <p><iframe style="border: 0; display: block;" src="https://widget.reco.se/v2/widget/1626775?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no"></iframe></p>
+
 ## Begravningskistor
 
-Lågpriskistorna, den *billigaste kistan* vi har är en enkel obehandlad furukista. Man kan lägga på ett så kallat bårtäcke över en billig kista under ceremonin. Kyrkan och kapellen lånar i regel ut sådana täcken gratis, men då får man i regel ej lägga blommor på dessa på den billiga kistan. Vi på ABC har egna bårtäcken i olika färger som man kan hyra för 200 kr för att lägga på kistan under ceremonin. Vi kan även betsa och måla en billig furukista. Det går också bra att beställa fina lackade kistor av oss, från 3.990 kr
-
+Lågpriskistorna, den _billigaste kistan_ vi har är en enkel obehandlad furukista. Man kan lägga på ett så kallat bårtäcke över en billig kista under ceremonin. Kyrkan och kapellen lånar i regel ut sådana täcken gratis, men då får man i regel ej lägga blommor på dessa på den billiga kistan. Vi på ABC har egna bårtäcken i olika färger som man kan hyra för 200 kr för att lägga på kistan under ceremonin. Vi kan även betsa och måla en billig furukista. Det går också bra att beställa fina lackade kistor av oss, från 3.990 kr
 
 En av anledningarna till att vi kan hålla så låga priser på våra kistor är att vi själva importerar dem.
 
@@ -78,8 +77,6 @@ Fritt vårt lager, det vill säga ni tar själva och hämtar kistorna vid vår l
 Vill ni köpa större kvantiteter kan vi leverera, och givetvis kan vi då ge mängdrabatt.
 
 Alla våra kistor är godkända enligt SBT och tillverkade i furu, gran, ask eller poppel.
-
-
 
 Vi arbetar i hela Stockholm, en milkostnad á 95:- milen vid kyrkor/kapell kan tillkomma om det är mer än 2 mil från Stockholms city:
 
