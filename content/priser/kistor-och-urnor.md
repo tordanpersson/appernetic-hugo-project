@@ -4,7 +4,7 @@ slug: Kistor
 date: 2018-03-03T17:17:17.000+00:00
 layout: subsection
 description: ABC Lilla begravningsbyrån hjälper dig att hitta en prisvärd & billig
-  kista. Vi har kistor i många olika utföranden för ett vackert & värdigt avsked
+  kista. Vi har kistor i många olika utföranden för ett vackert & värdigt avsked.
 aliases:
 - "/priser/kistor-och-urnor/"
 
