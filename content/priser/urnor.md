@@ -1,19 +1,20 @@
 ---
-title: "Billiga urnor från ABC Lilla Begravningsbyrån"
+title: Billiga urnor från ABC Lilla Begravningsbyrån
 slug: Urnor
-date: 2018-03-03T09:17:17-08:00
-draft: false
-tags: ['iot', 'recycling']
-categories: ['begravningen']
+date: 2018-03-03T17:17:17.000+00:00
+tags:
+- iot
+- recycling
+categories:
+- begravningen
 layout: subsection
-description: "Vi har urnor i Stockholm i många olika stilar. Från enkla & billiga urnor till exklusiva urnor i fina material. Se våra urnor här!"
+description: Vi har urnor i Stockholm i många olika stilar. Från enkla & billiga urnor
+  till exklusiva urnor i fina material. Se våra urnor här!
+
 ---
+# Hitta billiga urnor hos oss
 
-
-# Hitta billiga urnor hos oss
-
-
-Vi har *urnor* i Stockholm med olika former, material och prisnivåer. Från *billiga urnor* och dyrare urnor i exklusivare utförande. Urnor köper du i samband med att du bokar **[begravningsceremoni][1]**.
+Vi har _urnor_ i Stockholm med olika former, material och prisnivåer. Från _billiga urnor_ och dyrare urnor i exklusivare utförande. Urnor köper du i samband med att du bokar [**begravningsceremoni**](begravningen/ceremonin/).
 
 <table class="table">
 <tbody>
@@ -82,9 +83,6 @@ Vi har *urnor* i Stockholm med olika former, material och prisnivåer. Från *bi
 <td style="width: 200px;"><img style="float: left;" src="images/bilder/Vittsjo-sand-190x300.jpg" width="100" alt="Miljöurna Vittsjö sand" border="0" />  </td>
 <td style="width: 200px;"><img style="float: left;" src="images/bilder/Vittsjo-grafit-190x300.jpg" width="100" alt="Miljöurna Vittsjö grafit" border="0" />  </td>
 
-
-
-
 </tr>
 <tr>
 <td style="width: 200px;"><img style="float: left;" src="images/bilder/Vittsjo-svart-190x300.jpg" width="100" alt="Miljöurna Vittsjö svart" border="0" />  </td>
@@ -134,9 +132,9 @@ Vi har *urnor* i Stockholm med olika former, material och prisnivåer. Från *bi
 
 Kremering innebär att den avlidne förbränns och blir till aska. Efter att kremeringen har genomförts behöver askan förvaras i någon form av behållare. Krematoriet placerar den avlidnes aska i en mycket enkel form av urna, en pappkartong.
 
-*Kartongen* från krematoriet är fullt tillräcklig vid gravsättning i minneslund, då behövs ingen urna, för vid gravsättning i minneslund strör man ut askan eller gräver ner den. Man får ej vara med då askan sprids, utan får bara ett meddelande när gravsättningen är gjord.
+_Kartongen_ från krematoriet är fullt tillräcklig vid gravsättning i minneslund, då behövs ingen urna, för vid gravsättning i minneslund strör man ut askan eller gräver ner den. Man får ej vara med då askan sprids, utan får bara ett meddelande när gravsättningen är gjord.
 
-Vid begravningar i *askgravlund* eller på en *askgravplats*, så står i regel kyrkogårdsförvaltningarna för en sammetspåse vid gravsättningen. Så inte heller där behövs en urna.
+Vid begravningar i _askgravlund_ eller på en _askgravplats_, så står i regel kyrkogårdsförvaltningarna för en sammetspåse vid gravsättningen. Så inte heller där behövs en urna.
 
 Den **billigaste urnan** vi har att erbjuda för en enkel urna, är en enkel pappersurna för 490 kronor.
 
@@ -146,10 +144,6 @@ En annat variant om man önskar exempelvis gravsättning i en minneslund är att
 
 Tänk då på att rymdmåttet bör vara minst fyra liter för urnan så man kan lägga ner kartongen med askan i urnan med en stor öppning på femton x femton plus ett djup på femton cm.
 
-Ett annat billigt urnalternativ är att man [hyr en urna][2] för 390 kronor av oss här på **ABC Lilla Begravningsbyrå i Stockholm**, då kan man använda sig av modell 210 eller modell 100.
+Ett annat billigt urnalternativ är att man [hyr en urna](priser/) för 390 kronor av oss här på **ABC Lilla Begravningsbyrå i Stockholm**, då kan man använda sig av modell 210 eller modell 100.
 
 Vi har även andra hyrurnor att erbjuda till ceremonin.
-
-
-  [1]: begravningen/ceremonin/
-  [2]: priser/
