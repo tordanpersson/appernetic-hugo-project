@@ -1,20 +1,20 @@
 ---
-title: "Dödsfallet"
-description: ""
-date: 2018-03-06T02:16:58-08:00
-draft: false
-categories: ['hugo',]
-tags: ['theme','bulma']
+title: Dödsfallet
+description: ''
+date: 2018-03-06T10:16:58.000+00:00
+categories:
+- hugo
+tags:
+- theme
+- bulma
 layout: subsection
-aliases: ['/begravningen/vad-goer-jag-nu/doedsfallet/']
+aliases:
+- "/begravningen/vad-goer-jag-nu/doedsfallet/"
 
 ---
-
 # Dödsfallet
 
-{{< img-post
-    path="images/bilder/" file="blomma_rosa.jpg"
-    alt="Dödsfallet" type="right" >}}
+{{< img-post path="images/bilder" file="blomma_rosa.jpg" alt="Dödsfallet" type="right" >}}
 
 **Att förlora en anhörig** eller en nära vän kan vara bland det mest omvälvande vi kan råka ut för, en chock för de flesta av oss, trots att det kanske till och med var väntat.
 
