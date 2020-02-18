@@ -1,44 +1,43 @@
 ---
-title: "Det praktiska"
-description: ""
-date: 2018-03-05T02:16:58-08:00
-draft: false
-categories: ['hugo',]
-tags: ['theme','bulma']
+title: Det praktiska
+description: ''
+date: 2018-03-05T10:16:58.000+00:00
+categories:
+- hugo
+tags:
+- theme
+- bulma
 layout: subsection
-aliases: ['/begravningen/vad-goer-jag-nu/det-praktiska/']
+aliases:
+- "/begravningen/vad-goer-jag-nu/det-praktiska/"
+
 ---
-
-
 # Det praktiska
 
-{{< img-post
-    path="images/bilder/" file="blomma_rosa.jpg"
-    alt="Det praktiska" type="right" >}}
-
+{{< img-post path="images/bilder" file="blomma_rosa.jpg" alt="Det praktiska" type="right" >}}
 
 ## Att tänka på vid ett dödsfall
 
- * Kontakta hyresvärd eller bostadsrättsförening och meddela dödsfallet. För hyresrätt är uppsägningstiden en månad.
- * Kontakta eventuell arbetsgivare och försäkringskassa.
- * Kontakta Sociala/Stadsdelsförvaltningarna om den avlidne hade hemtjänst eller hemsjukvård.
- * Makulera alla ID handlingar.
- * Säg upp alla abonnemang såsom, telefon, TV, kabel- abonnemang, dator, elektricitet samt autogiron.
- * Säg upp prenumerationer av tidningar, facebook och andra sociala medier.
- * Kontrollera vilka kort som finns tex kreditkort, ICA-kort Medmera-kort
+* Kontakta hyresvärd eller bostadsrättsförening och meddela dödsfallet. För hyresrätt är uppsägningstiden en månad.
+* Kontakta eventuell arbetsgivare och försäkringskassa.
+* Kontakta Sociala/Stadsdelsförvaltningarna om den avlidne hade hemtjänst eller hemsjukvård.
+* Makulera alla ID handlingar.
+* Säg upp alla abonnemang såsom, telefon, TV, kabel- abonnemang, dator, elektricitet samt autogiron.
+* Säg upp prenumerationer av tidningar, facebook och andra sociala medier.
+* Kontrollera vilka kort som finns tex kreditkort, ICA-kort Medmera-kort
 
 Tänk också på:
 
- * att tömma kylskåp och slänga sopor
- * vattna blommor
- * ta hand om eventuella husdjur
- * hämta tillhörigheter på sjukhus/sjukhem
- * ta hand om fordon
- * sänka värmen
- * återlämna eventuella handikapphjälpmedel
- * lämna in överbliven medicin på apoteket
- * samla in reservnycklar
- * ändra gravrättsinnehavare till de gravar den avlidne skött om
+* att tömma kylskåp och slänga sopor
+* vattna blommor
+* ta hand om eventuella husdjur
+* hämta tillhörigheter på sjukhus/sjukhem
+* ta hand om fordon
+* sänka värmen
+* återlämna eventuella handikapphjälpmedel
+* lämna in överbliven medicin på apoteket
+* samla in reservnycklar
+* ändra gravrättsinnehavare till de gravar den avlidne skött om
 
 Om inga tillgångar finns i dödsboet, kan begravningshjälp erhållas från Socialförvaltningen i kommunen eller Stadsdelsförvaltningarna i Stockholm.
 
