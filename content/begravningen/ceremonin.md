@@ -1,20 +1,20 @@
 ---
-title: "Ceremonin"
-description: ""
-date: 2018-03-10T02:16:58-08:00
-draft: false
-categories: ['hugo',]
-tags: ['theme','bulma']
+title: Ceremonin
+description: ''
+date: 2018-03-10T10:16:58.000+00:00
+categories:
+- hugo
+tags:
+- theme
+- bulma
 layout: subsection
----
 
+---
 # Ceremonin
 
-{{< img-post
-    path="images/bilder/" file="blomma_rosa.jpg"
-    alt="Ceremonin" type="right" >}}
+{{< img-post path="images/bilder" file="blomma_rosa.jpg" alt="Ceremonin" type="right" >}}
 
-Vi på **ABC Lilla begravningsbyrå** anländer alltid en timme innan tidpunkt för begravning för att förbereda och iordningställa allt i förrättningslokalen inför *ceremonin*. I arbetsuppgifterna ingår bland annat att ställa in kistan, att sätta ut blommor och tända ljus.
+Vi på **ABC Lilla begravningsbyrå** anländer alltid en timme innan tidpunkt för begravning för att förbereda och iordningställa allt i förrättningslokalen inför _ceremonin_. I arbetsuppgifterna ingår bland annat att ställa in kistan, att sätta ut blommor och tända ljus.
 
 Som anhörig möts du av vår representant, vaktmästare och prästen. Även vaktmästare och representant medverkar under ceremonin för att enkelt kunna vara till hands vid behov.
 
