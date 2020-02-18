@@ -27,234 +27,67 @@ på ABC Lilla begravningsbyrån tagit fram några prisexempel.
 
 Vi finns här för er.
 
-<table class="table">
-<tbody>
-<tr>
-<td><strong>KREMATION UTAN CEREMONI</strong></td>
-<td style="width: 76px;"> </td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td>Miljökista i papp</td>
-<td style="width: 76px;" align="right">1 990:-</td>
-<td style="width: 77px;" align="right"> </td>
-</tr>
-<tr>
-<td>Bisättning, svepning och transport till krematorium</td>
-<td style="width: 76px;" align="right">3 600:-</td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td>Byråarvode</td>
-<td style="width: 76px;" align="right">310:-</td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td><strong>Pris inkl moms</strong></td>
-<td style="width: 76px;" align="right"><strong>5 900:-</strong></td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td><span style="color: #ffffff;">ABC</span></td>
-<td style="width: 76px;"> </td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td><strong>KREMATIONSBEGRAVNING I KYRKA ELLER KAPELL</strong></td>
-<td style="width: 76px;"> </td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td>Kista i furu</td>
-<td style="width: 76px;" align="right">1 990:-</td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td><span style="color: #333399;">Kista betsad eller målad furu</span></td>
-<td style="width: 76px;"> </td>
-<td style="width: 77px;" align="right"><span style="color: #333399;">2 990:-</span></td>
-</tr>
-<tr>
-<td>Bisättning, svepning och transport till kyrka eller kapell</td>
-<td style="width: 76px;" align="right">3 800:-</td>
-<td style="width: 77px;" align="right"><span style="color: #333399;">3 800:-</span></td>
-</tr>
-<tr>
-<td>Byråarvode</td>
-<td style="width: 76px;" align="right">2 800:-</td>
-<td style="width: 77px;" align="right"><span style="color: #333399;">2 800:-</span></td>
-</tr>
-<tr>
-<td>Representant</td>
-<td style="width: 76px;" align="right">1 400:-</td>
-<td style="width: 77px;" align="right"><span style="color: #333399;">1 400:-</span></td>
-</tr>
-<tr>
-<td><strong>Pris inkl moms</strong></td>
-<td style="width: 76px;" align="right"><strong>9 990:-</strong></td>
-<td style="width: 77px;" align="right"><strong><span style="color: #333399;">10 990:-</span></strong></td>
-</tr>
-<tr>
-<td><span style="color: #ffffff;">ABC</span></td>
-<td style="width: 76px;"> </td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td><strong>JORDBEGRAVNING I KYRKA ELLER KAPELL</strong></td>
-<td style="width: 76px;"> </td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td>Kista i furu</td>
-<td style="width: 76px;" align="right">1 990:-</td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td><span style="color: #333399;">Kista betsad eller målad furu</span></td>
-<td style="width: 76px;"> </td>
-<td style="width: 77px;" align="right"><span style="color: #333399;">2 990:-</span></td>
-</tr>
-<tr>
-<td>Bisättning, svepning och transport till kyrka eller kapell</td>
-<td style="width: 76px;" align="right">3 800:-</td>
-<td style="width: 77px;" align="right"><span style="color: #333399;">3 800:-</span></td>
-</tr>
-<tr>
-<td>Byråarvode</td>
-<td style="width: 76px;" align="right">3 900:-</td>
-<td style="width: 77px;" align="right"><span style="color: #333399;">3 900:-</span></td>
-</tr>
-<tr>
-<td>Representant</td>
-<td style="width: 76px;" align="right">1 400:-</td>
-<td style="width: 77px;" align="right"><span style="color: #333399;">1 400:-</span></td>
-</tr>
-<tr>
-<td style="width: 305px;" align="left" valign="top"><strong>Pris inkl moms<br /></strong></td>
-<td style="width: 76px;" align="right" valign="top"><strong>11 090:-</strong></td>
-<td style="width: 77px;" align="right" valign="top"><span style="color: #333399;"><strong>12 090:-</strong></span></td>
-</tr>
-<tr>
-<td><span style="color: #ffffff;">ABC</span></td>
-<td style="width: 76px;"> </td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td style="width: 305px;" align="left" valign="top">Bärarlag, sex pers 890:- per person</td>
-<td style="width: 76px;" align="right" valign="top">5 340:-</td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td style="width: 305px;" align="left" valign="top">Hyra av bårtäcke, flera färger</td>
-<td style="width: 76px;" align="right" valign="top">200:-</td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td> </td>
-<td style="width: 76px;"> </td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td><strong>Eventuellt tillkommande kostnader</strong></td>
-<td style="width: 76px;"> </td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td>Balsamering för visning, dröjsmål eller av annan orsak</td>
-<td style="width: 76px;" align="right">1150:-</td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td>Visning av den avlidna</td>
-<td style="width: 76px;" align="right">990:-</td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td>Visning av den avlidna i samband med bisättning</td>
-<td style="width: 76px;" align="right">990:-</td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td style="width: 305px;" align="left" valign="top">Urna tillkommer vid gravsättning, från</td>
-<td style="width: 76px;" align="right" valign="top">490:-</td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td style="width: 305px;" align="left" valign="top">Tyg- och sammetspåsar för aska, från</td>
-<td style="width: 76px;" align="right" valign="top">390:-</td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td><span style="color: #ffffff;">ABC</span></td>
-<td style="width: 76px;"> </td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td><strong>Vi står också till tjänst med</strong></td>
-<td style="width: 76px;"> </td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td>Programblad grundpris</td>
-<td style="width: 76px;" align="right">490:-</td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td>Programblad per ex</td>
-<td style="width: 76px;" align="right">14:-</td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td>Hjälp med begravningsannons i en tidning</td>
-<td style="width: 76px;" align="right">490:-</td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td>Hjälp med begravningsannons inkl O.S.A.</td>
-<td style="width: 76px;" align="right">990:-</td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td>Hjälp med begravningsannons i mer än en tidning</td>
-<td style="width: 76px;" align="right">790:-</td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td>Anhörig gör själv annons, O.S.A. till begravningsbyrån</td>
-<td style="width: 76px;" align="right">790:-</td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td>Klä den avlidne i egna kläder</td>
-<td style="width: 76px;" align="right">990:-</td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td>Extra representant (rek. vid större ceremonier)</td>
-<td style="width: 76px;" align="right">1400:-</td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td>Visning av den avlidna </td>
-<td style="width: 76px;">990:-</td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td>Hjälp med bouppteckning, grundpris för tre timmar</td>
-<td style="width: 76px;" align="right">5 690:-</td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td>därefter per timme</td>
-<td style="width: 76px;" align="right">790:-</td>
-<td style="width: 77px;"> </td>
-</tr>
-<tr>
-<td>Granskning av bouppteckning</td>
-<td style="width: 76px;" align="right">1 490:-</td>
-<td style="width: 77px;"> </td>
-</tr>
-</tbody>
-</table>
+**KREMATION UTAN CEREMONI**
+
+|  |  |  |
+| --- | --- | --- |
+| Miljökista i Papp | 1 990:- |  |
+| Miljökista i Furu |  | 2990:- |
+| Bisättning, svepning och transport till krematorium | 3 600:- | 3 600:- |
+| Byråarvode | 310:- | 310:- |
+| Pris inkl moms | 5 900:- | 6 900:- |
+
+**KREMATIONSBEGRAVNING I KYRKA ELLER KAPELL**
+
+|  |  |  |
+| --- | --- | --- |
+| Kista i furu | 2 990:- |  |
+| Kista betsad eller målad furu |  | 3 990:- |
+| Bisättning, svepning och transport till kyrka eller kapell | 3 800:- | 3 800:- |
+| Byråarvode | 2 800:- | 2 800:- |
+| Representant | 1 400:- | 1 400:- |
+| Pris inkl moms | 10 990:- | 11 990:- |
+
+**JORDBEGRAVNING I KYRKA ELLER KAPELL**
+
+|  |  |  |
+| --- | --- | --- |
+| Kista i furu | 2 990:- |  |
+| Kista betsad eller målad furu |  | 3 990:- |
+| Bisättning, svepning och transport till kyrka eller kapell | 3 800:- | 3 800:- |
+| Byråarvode | 3 900:- | 3 900:- |
+| Representant | 1 400:- | 1 400:- |
+| Pris inkl moms | 12 090:- | 13 090:- |
+
+|  |  |  |
+| --- | --- | --- |
+| Bärarlag, sex pers 890:- per person | 5 340:- |  |
+| Hyra av bårtäcke, flera färger | 290:- |  |
+
+**Eventuellt tillkommande kostnader**
+
+|  |  |  |
+| --- | --- | --- |
+| Visning av den avlidna | 1490:- |  |
+| Visning av den avlidna i samband med bisättning | 1490:- |  |
+| Urna tillkommer vid gravsättning, från | 490:- |  |
+| Tyg- och sammetspåsar för aska, från | 390:- |  |
+
+**Vi står också till tjänst med**
+
+|  |  |  |
+| --- | --- | --- |
+| Programblad grundpris | 490:- |  |
+| Programblad per ex | 17:- |  |
+| Hjälp med begravningsannons i en tidning | 590:- |  |
+| Hjälp med begravningsannons inkl O.S.A. | 1490:- |  |
+| Hjälp med begravningsannons i mer än en tidning | 890:- |  |
+| Anhörig gör själv annons, O.S.A. till begravningsbyrån | 1290:- |  |
+| Klä den avlidne i egna kläder | 1490:- |  |
+| Extra representant (rek. vid större ceremonier) | 1400:- |  |
+| Visning av den avlidna | 1490:- |  |
+| Hjälp med bouppteckning, grundpris för tre timmar | 1490:- |  |
+| därefter per timme | 890:- |  |
+| Granskning av bouppteckning | 1490:- |  |
 
 <p><iframe style="border: 0; display: block;" src="https://widget.reco.se/v2/widget/1626775?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no"></iframe></p>
