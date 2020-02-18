@@ -1,14 +1,11 @@
 ---
-
-title: "Hitta hit"
-date: 2018-04-08T09:16:58-08:00
+title: Hitta hit
+date: 2018-04-08T17:16:58.000+00:00
 layout: subsection
-weight: 101
+weight: "101"
 
 ---
-
-
-# Hitta hit
+# Hitta hit
 
 Karta:
 
@@ -18,7 +15,7 @@ Karta:
 
 ABC Lilla begravningsbyrån
 
-Skönviksvägen 244, 122 42 Enskede  
+Skönviksvägen 244, 122 42 Enskede
 
 Öppet vardagar 09.00 - 15.00, eller efter överenskommelse.
 
@@ -26,9 +23,9 @@ Tel: 08 – 648 76 55  (09.00 -17.00)
 
 E-post: abcbegravning@gmail.com
 
-Journummer: 0760-52 44 33 
+Journummer: 0760-52 44 33
 
-Vi utför begravningar i hela Storstockholm - Stockholm City, Norrmalm, Södermalm, Kungsholmen, Östermalm, Gamla Stan, Djurgården, Västerort, Bromma, Vällingby, Spånga, Kista, Hässelby, Söderort,Bagarmossen, Bandhagen, Enskede, Enskededalen, Enskede gård, Farsta, Hägersten, Johanneshov, Skarpnäck, Skärholmen, Sköndal, Stockholm-Globen, Årsta, Hammarby Sjöstad, Liljeholmen, Gröndal, Älvsjö, Norrort, Danderyd, Sollentuna, Lidingö, Järfälla, Vallentuna, Huddinge, Botkyrka. 
+Vi utför begravningar i hela Storstockholm - Stockholm City, Norrmalm, Södermalm, Kungsholmen, Östermalm, Gamla Stan, Djurgården, Västerort, Bromma, Vällingby, Spånga, Kista, Hässelby, Söderort,Bagarmossen, Bandhagen, Enskede, Enskededalen, Enskede gård, Farsta, Hägersten, Johanneshov, Skarpnäck, Skärholmen, Sköndal, Stockholm-Globen, Årsta, Hammarby Sjöstad, Liljeholmen, Gröndal, Älvsjö, Norrort, Danderyd, Sollentuna, Lidingö, Järfälla, Vallentuna, Huddinge, Botkyrka.
 
 Eventuellt kan milersättning debiteras till följande områden á 95:-/mil:
 
@@ -38,7 +35,6 @@ Du kan även anlita oss för begravningar i resten av landet. Då tillkommer mil
 
 Vi gör även om ni så önskar hembesök.
 
-
 ## Brommakontoret vid Brommaplan, Stopvägen 78
 
 ABC Lilla begravningsbyrån Bromma
@@ -47,7 +43,7 @@ Stopvägen 78
 
 Möteskontor efter överenskommelse, även kvällsmöten.
 
-Tel: 08 - 648 76 55  
+Tel: 08 - 648 76 55
 
 E-post: abcbegravning@gmail.com
 
