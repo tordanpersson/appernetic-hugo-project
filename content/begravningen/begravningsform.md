@@ -1,18 +1,18 @@
 ---
-title: "Begravningsform"
-description: ""
-date: 2018-03-12T02:16:58-08:00
-draft: false
-categories: ['hugo',]
-tags: ['theme','bulma']
+title: Begravningsform
+description: ''
+date: 2018-03-12T10:16:58.000+00:00
+categories:
+- hugo
+tags:
+- theme
+- bulma
 layout: subsection
----
 
+---
 # Begravningsform
 
-{{< img-post
-    path="images/bilder/" file="blomma_rosa.jpg"
-    alt="Kyrklig begravning" type="right" >}}
+{{< img-post path="images/bilder" file="blomma_rosa.jpg" alt="Kyrklig begravning" type="right" >}}
 
 **Kyrklig begravning** är den begravningsceremoni som majoriteten av dem som avlider i Sverige får. Utförs ceremonin av en präst som tillhör Svenska kyrkan som officiant, görs det enligt Svenska kyrkans ordning för begravningsgudstjänst. En kyrklig begravning äger i regel rum i en kyrka eller ett kapell.
 
