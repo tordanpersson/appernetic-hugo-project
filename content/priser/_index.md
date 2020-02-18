@@ -86,7 +86,7 @@ Vi finns här för er.
 | Klä den avlidne i egna kläder |  | 1490:- |
 | Extra representant (rek. vid större ceremonier) |  | 1400:- |
 | Visning av den avlidna |  | 1490:- |
-| Hjälp med bouppteckning, grundpris för tre timmar |  | 1490:- |
+| Bouppteckning enkel, grundkostnad |  | 5900:- |
 | därefter per timme |  | 890:- |
 | Granskning av bouppteckning |  | 1490:- |
 
