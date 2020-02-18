@@ -1,16 +1,13 @@
 ---
-date: 2018-03-11T00:00:00-08:00
-description: ""
-draft: false
-title: "Att se den avlidne, visning"
+date: 2018-03-11T08:00:00.000+00:00
+description: ''
+title: Att se den avlidne, visning
 layout: subsection
----
 
+---
 # Att se den avlidne, visning
 
-{{< img-post
-    path="images/bilder/" file="blomma_rosa.jpg"
-    alt="Att se den avlidne, visning" type="right" >}}
+{{< img-post path="images/bilder" file="blomma_rosa.jpg" alt="Att se den avlidne, visning" type="right" >}}
 
 Om Ni så önskar kan ni givetvis ta farväl av den avlidne genom att vi på ABC Lilla begravningsbyrå genomför en så kallad visning.
 
