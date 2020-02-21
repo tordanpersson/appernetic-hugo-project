@@ -67,7 +67,6 @@ method="POST">
 Skicka meddelande
 </button>
 
-      </div>
-    </div>
+      
 
 </form>
