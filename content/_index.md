@@ -37,7 +37,7 @@ Med hjälp av oss på ABC Lilla begravningsbyrån får ni hjälp att planera en 
 
 En begravning kan i princip kosta hur mycket pengar som helst. Men vi skräddarsyr er begravning, börjar från botten och erbjuder er en av de mest prisvärda begravningarna i Stockholm.
 
-Den enklaste begravningen man kan genomföra är en så kallad Direktkremation utan ceremoni. Detta innebär att vi på ABC lilla begravningsbyrån hämtar den avlidna på bårhuset och transporterar denne till krematoriet för en kremation. Kostnad 5.900:- under förutsättning att hen ifråga inte var väldigt stor/kraftig/tung för då krävs en extra stor kista (4.890:-) totalt 8.800:-
+Den enklaste begravningen man kan genomföra är en så kallad Direktkremation utan ceremoni. Detta innebär att vi på ABC lilla begravningsbyrån hämtar den avlidna på bårhuset och transporterar denne till krematoriet för en kremation. Kostnad 5.900:- under förutsättning att hen ifråga inte var väldigt stor/kraftig/tung för då krävs en extra stor kista (4.990:-) totalt 8.900:-
 
 Beroende på vad ni vill göra med askan är det enklaste att gravsätta den i en minneslund. Detta är ett anonymt och kostnadsfritt alternativ.
 Som anhörig får ni ej närvara och inte heller få reda på var i minneslunden den avlidna är gravsatt.
