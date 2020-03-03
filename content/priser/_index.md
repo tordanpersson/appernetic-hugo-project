@@ -36,7 +36,7 @@ Vi finns här för er.
 | Bisättning, svepning och transport till krematorium | 3 600:- | 3 600:- |
 | Byråarvode | 310:- | 310:- |
 | Pris inkl moms | 5 900:- | 6 900:- |
-|  |  |  |
+
 | --- | --- | --- |
 | Är personen storvuxen kan en extra stor kista behövas 4 990:- totalt 8 900:- |  |  |
 
