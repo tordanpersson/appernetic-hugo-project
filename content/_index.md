@@ -9,9 +9,9 @@ description: Begravning i Stockholm? Vi på ABC Lilla begravningsbyrån hjälper
 
 ## Vi erbjuder prisvärda och billiga begravningar i hela Stockholm.
 
-### Alltid fri telefonrådgivning. Telefonummer 9-17 _08-648 76 55. Jour 076-052 44 33_
+### Alltid fri telefonrådgivning. _08-648 76 55, kl 9-17. Jour 076-052 44 33_
 
-ABC Lilla begravningsbyrån, Stockholm är en prisvärd [billig begravningsbyrå](billig-begravningsbyra) och kan erbjuda tjänster till låg kostnad.
+ABC Lilla begravningsbyrån, Stockholm är en prisvärd billig begravningsbyrå och kan erbjuda tjänster till låg kostnad.
 
 <p><iframe style="border: 0; display: block;" src="https://widget.reco.se/v2/widget/1626775?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no"></iframe></p>
 
