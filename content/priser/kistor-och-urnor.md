@@ -15,7 +15,7 @@ När du beställer en **kremationsbegravning** det vill säga en begravning med 
 
 ## Kistor
 
-Vi leverar prisvärda och billiga kistor. En **billig furukista** hos oss kostar 1.990 kr under förutsättning att man beställer eller bokar en begravning hos oss. Vill du endast köpa en _billig kista_ kostar den 2.990 kr. Vi kanske har en av de lägsta priserna när det gäller kistor i Stockholm. De kistor vi har på vår hemsida är bara ett litet urval av vad vi har att erbjuda.
+Vi leverar prisvärda och billiga kistor. En **billig furukista** hos oss kostar 2.990 kr under förutsättning att man beställer eller bokar en begravning hos oss. Vill du endast köpa en _billig kista_ kostar den 3.990 kr. Vi kanske har en av de lägsta priserna när det gäller kistor i Stockholm. De kistor vi har på vår hemsida är bara ett litet urval av vad vi har att erbjuda.
 
 <table class="table">
 <tbody>
@@ -26,7 +26,7 @@ Vi leverar prisvärda och billiga kistor. En **billig furukista** hos oss kostar
 </tr>
 <tr>
 <td colspan="3">
-<p><strong>Furukista. Pris 1 990:-</strong></p>
+<p><strong>Furukista. Pris 2 990:-</strong></p>
 <p>Vid köp av endast kista om ni ej beställer begravning via oss. Pris 2 990:-</p>
 <p><strong> </strong></p>
 </td>
@@ -38,7 +38,7 @@ Vi leverar prisvärda och billiga kistor. En **billig furukista** hos oss kostar
 </tr>
 <tr>
 <td colspan="3">
-<p><strong>Tygdraperad furukista</strong> finns i blått, grått och vinrött. <strong>Pris 3 990:-</strong></p>
+<p><strong>Tygdraperad furukista</strong> finns i grått och vinrött. <strong>Pris 3 990:-</strong></p>
 <p>Vid köp av endast kista om ni ej beställer begravning via oss. Pris 4 990:-</p>
 <p> </p>
 </td>
@@ -50,8 +50,8 @@ Vi leverar prisvärda och billiga kistor. En **billig furukista** hos oss kostar
 </tr>
 <tr>
 <td colspan="3">
-<p><strong>Målad furu</strong> i valfri färg, betsad eller täckande. <strong>Pris 2 990:-</strong></p>
-<p>Vid köp av endast kista om ni ej beställer begravning via oss. Pris 3 990:-</p>
+<p><strong>Målad furu</strong> i valfri färg, betsad eller täckande. <strong>Pris 3 990:-</strong></p>
+<p>Vid köp av endast kista om ni ej beställer begravning via oss. Pris 4 990:-</p>
 <p> </p>
 </td>
 </tr>
@@ -66,7 +66,7 @@ Vi leverar prisvärda och billiga kistor. En **billig furukista** hos oss kostar
 
 ## Begravningskistor
 
-Lågpriskistorna, den _billigaste kistan_ vi har är en enkel obehandlad furukista. Man kan lägga på ett så kallat bårtäcke över en billig kista under ceremonin. Kyrkan och kapellen lånar i regel ut sådana täcken gratis, men då får man i regel ej lägga blommor på dessa på den billiga kistan. Vi på ABC har egna bårtäcken i olika färger som man kan hyra för 200 kr för att lägga på kistan under ceremonin. Vi kan även betsa och måla en billig furukista. Det går också bra att beställa fina lackade kistor av oss, från 3.990 kr
+Lågpriskistorna, den _billigaste kistan_ vi har är en enkel obehandlad furukista. Man kan lägga på ett så kallat bårtäcke över en billig kista under ceremonin. Kyrkan och kapellen lånar i regel ut sådana täcken gratis, men då får man i regel ej lägga blommor på dessa på den billiga kistan. Vi på ABC har egna bårtäcken i olika färger som man kan hyra för 200 kr för att lägga på kistan under ceremonin. Vi kan även betsa och måla en billig furukista. Det går också bra att beställa fina lackade kistor av oss, från 5.990 kr
 
 En av anledningarna till att vi kan hålla så låga priser på våra kistor är att vi själva importerar dem.
 
