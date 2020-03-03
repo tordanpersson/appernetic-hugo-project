@@ -135,8 +135,8 @@ params:
     # Sites should customize their logo or wordmark here; Provided via partials/logo.html.
     # used in default navigation and footer.
     logotype: '<img src="img/abclogga.png">'
-    footer: ''
-    subfooter: ''
+    footer: ' '
+    subfooter: ' '
 
     # Optional information used in RSS, Atom and JSON-LD microdata. See Schema.org.
     publisher:
