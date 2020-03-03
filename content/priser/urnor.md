@@ -143,6 +143,6 @@ En annat variant om man önskar exempelvis gravsättning i en minneslund är att
 
 Tänk då på att rymdmåttet bör vara minst fyra liter för urnan så man kan lägga ner kartongen med askan i urnan med en stor öppning på femton x femton plus ett djup på femton cm.
 
-Ett annat billigt urnalternativ är att man [hyr en urna](priser/) för 390 kronor av oss här på **ABC Lilla Begravningsbyrå i Stockholm**, då kan man använda sig av modell 210 eller modell 100.
+Ett annat billigt urnalternativ är att man hyr en urna för 390 kronor av oss här på **ABC Lilla Begravningsbyrå i Stockholm**, då kan man använda sig av modell 210 eller modell 100.
 
 Vi har även andra hyrurnor att erbjuda till ceremonin.
