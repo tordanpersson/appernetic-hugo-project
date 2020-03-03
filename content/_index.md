@@ -33,7 +33,7 @@ Att förlora en anhörig eller vän kan vara det mest omvälvande vi råkar ut f
 
 ## Hjälp att planera en begravning före och efter
 
-Med hjälp av oss på ABC Lilla begravningsbyrån får ni hjälp att planera en begravning och ni kan välja att göra mycket utav arbetet själv. Dels för att sänka dina begravningskostnader men det kan även vara en viktig del av sorgarbetet att själv ta hand om en del av begravningen. Efter att en begravning ägt rum t ex vid kremationsbegravning  ska askan spridas eller gravsättas och kontakt med kyrkogårdsförvaltning planeras.
+Med hjälp av oss på ABC Lilla begravningsbyrån får ni hjälp att planera en begravning och ni kan välja att göra mycket utav arbetet själv. Dels för att sänka dina begravningskostnader men det kan även vara en viktig del av sorgarbetet att själv ta hand om en del av begravningen. 
 
 En begravning kan i princip kosta hur mycket pengar som helst. Men vi skräddarsyr er begravning, börjar från botten och erbjuder er en av de mest prisvärda begravningarna i Stockholm.
 
