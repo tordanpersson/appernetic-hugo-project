@@ -1,17 +1,15 @@
 ---
 date: 2018-03-01
-title: Begravning i Stockholm
+title: Begravningsbyrå Stockholm - Begravning | ABC Lilla begravningsbyrå
 description: Begravning i Stockholm? Vi på ABC Lilla begravningsbyrån hjälper er att
   planera begravningen. Vi hjälper er med allt som hör begravningen till. Se mer här!
 
 ---
-# En begravningsbyrå i Stockholm som hjälper dig med begravningen
+# Begravningsbyrå i Stockholm
 
-## Vänd Er med förtroende till oss på ABC Lilla begravningsbyrån.
+## Vi erbjuder prisvärda och billiga begravningar i hela Stockholm.
 
-### Vi hjälper Er med allt som hör en begravning till.
-
-### Alltid fri telefonrådgivning.
+### Alltid fri telefonrådgivning. Telefonummer 9-17 _08-648 76 55. Jour 076-052 44 33_
 
 ABC Lilla begravningsbyrån, Stockholm är en prisvärd [billig begravningsbyrå](billig-begravningsbyra) och kan erbjuda tjänster till låg kostnad.
 
