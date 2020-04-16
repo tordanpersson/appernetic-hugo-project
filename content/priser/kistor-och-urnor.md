@@ -27,7 +27,7 @@ Vi leverar prisvärda och billiga kistor. En **billig furukista** hos oss kostar
 <tr>
 <td colspan="3">
 <p><strong>Furukista. Pris 2 990:-</strong></p>
-<p>Vid köp av endast kista om ni ej beställer begravning via oss. Pris 2 990:-</p>
+<p>Vid köp av endast kista om ni ej beställer begravning via oss. Pris 3 990:-</p>
 <p><strong> </strong></p>
 </td>
 </tr>
@@ -44,16 +44,16 @@ Vi leverar prisvärda och billiga kistor. En **billig furukista** hos oss kostar
 </td>
 </tr>
 <tr>
-<td><img style="float: left;" src="images/bilder/rootsi_krematsioonikirst_malad.png" alt="" width="350" height="144" border="0" /></td>
-<td> </td>
+<td><img style="float: left;" src="images/bilder/rootsi_krematsioonikirst_malad.png" alt="" width="350" height="144" _order="0" /></td>_
+<td> <_td>
 <td><img style="float: left;" src="images/bilder/rootsi_krematsioonikirst_bla.png" alt="" width="350" height="144" border="0" /></td>
 </tr>
 <tr>
-<td colspan="3">
-<p><strong>Målad furu</strong> i valfri färg, betsad eller täckande. <strong>Pris 3 990:-</strong></p>
+<td colspan="3"_>
+<p><strong>Målad furu</strong> i v_lfri färg, betsad eller täckande. <strong>Pris 3 990:-</strong></p>
 <p>Vid köp av endast kista om ni ej beställer begravning via oss. Pris 4 990:-</p>
 <p> </p>
-</td>
+</td_>
 </tr>
 
 <tr>
