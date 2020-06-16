@@ -4,7 +4,7 @@ title: Begravningsbyrå Stockholm - Begravning | ABC Lilla begravningsbyrå
 description: Begravning i Stockholm? Vi på ABC Lilla begravningsbyrån hjälper er att
   planera begravningen. Vi hjälper er med allt som hör begravningen till. Se mer här!
 aliases:
-- "/content/401.md/"
+- /content/401.md/
 
 ---
 # Begravningsbyrå i Stockholm
