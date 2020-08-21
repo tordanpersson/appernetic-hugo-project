@@ -28,7 +28,7 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 </tr>
 <tr>
 <td colspan="3"_>
-<p><strong>Målad furu</strong> i v_lfri färg, betsad eller täckande. <strong>Pris 3 990:-</strong></p>
+<p><strong>Målad furu</strong> i valfri färg, betsad eller täckande. <strong>Pris 3 990:-</strong></p>
 <p>Vid köp av endast begravningskista om ni ej beställer begravning via oss. Pris 4 990:-</p>
 <p> </p>
 </td_>
