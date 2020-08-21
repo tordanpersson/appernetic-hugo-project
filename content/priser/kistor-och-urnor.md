@@ -22,8 +22,8 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 <tr>
 <td><img style="float: left;" src="images/bilder/billigakistor.png" alt="billiga kistor" width="350" height="144" border="0" /></td>
 
-<td> </td> </tr> <tr> <td colspan="3"> <p><strong>Furukista. Pris 2 990:-</strong></p> <p>Vid köp av endast begravningskista om ni ej beställer begravning via oss. Pris 3 990:-</p> <p><strong> </strong></p> </td> </tr> <tr> <td><img style="float: left;" src="images/bilder/kistorstockholm.png" alt="kistor stockholm" width="350" height="148" border="0" /></td> <td> </td> <td> </td> </tr> <tr> <td colspan="3"> <p><strong>Tygdraperad furukista</strong> finns i grått och vinrött. <strong>Pris 3 990:-</strong></p> <p>Vid köp av endast begravningskista om ni ej beställer begravning via oss. Pris 4 990:-</p> <p> </p> </td> </tr> <tr> <td><img style="float: left;" src="images/bilder/rootsi_krematsioonikirst_malad.png" alt="" width="350" height="144" _order="0" /></td>_
-<td> <_td>
+<td> </td> </tr> <tr> <td colspan="3"> <p><strong>Furukista. Pris 2 990:-</strong></p> <p>Vid köp av endast begravningskista om ni ej beställer begravning via oss. Pris 3 990:-</p> <p><strong> </strong></p> </td> </tr> <tr> <td><img style="float: left;" src="images/bilder/kistorstockholm.png" alt="kistor stockholm" width="350" height="148" border="0" /></td> <td> </td> <td> </td> </tr> <tr> <td colspan="3"> <p><strong>Tygdraperad furukista</strong> finns i grått och vinrött. <strong>Pris 3 990:-</strong></p> <p>Vid köp av endast begravningskista om ni ej beställer begravning via oss. Pris 4 990:-</p> <p> </p> </td> </tr> <tr> <td><img style="float: left;" src="images/bilder/rootsi_krematsioonikirst_malad.png" alt="" width="350" height="144" _order="0" /></td>
+<td> <td>
 <td><img style="float: left;" src="images/bilder/rootsi_krematsioonikirst_bla.png" alt="" width="350" height="144" border="0" /></td>
 </tr>
 <tr>
