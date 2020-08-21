@@ -66,7 +66,7 @@ Vi leverar prisvärda och billiga kistor. En **billig furukista** hos oss kostar
 
 ## Begravningskistor
 
-Lågpriskistorna, den _billigaste kistan_ vi har är en enkel obehandlad furukista. Man kan lägga på ett så kallat bårtäcke över en billig kista under ceremonin. Kyrkan och kapellen lånar i regel ut sådana täcken gratis, men då får man i regel ej lägga blommor på dessa på den billiga kistan. Vi på ABC har egna bårtäcken i olika färger som man kan hyra för 200 kr för att lägga på kistan under ceremonin. Vi kan även betsa och måla en billig furukista. Det går också bra att beställa fina lackade kistor av oss, från 5.990 kr
+Lågpriskistorna, den _billigaste begravningskista_ vi har är en enkel obehandlad furukista. Man kan lägga på ett så kallat bårtäcke över en billig begravningskista under ceremonin. Kyrkan och kapellen lånar i regel ut sådana täcken gratis, men då får man i regel ej lägga blommor på dessa på den billiga kistan. Vi på ABC har egna bårtäcken i olika färger som man kan hyra för 200 kr för att lägga på kistan under ceremonin. Vi kan även betsa och måla en billig furukista. Det går också bra att beställa fina lackade kistor av oss, från 5.990 kr
 
 En av anledningarna till att vi kan hålla så låga priser på våra kistor är att vi själva importerar dem.
 
