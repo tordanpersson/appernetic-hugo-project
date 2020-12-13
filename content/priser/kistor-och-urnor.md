@@ -23,7 +23,7 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 
 <tr>
 
-<td>
+<td><p style="font-size:20px;"><strong>Pris 2990</strong></p>
 
 <img style="float: left;" src="images/bilder/billigakistor.png" alt="billiga kistor" width="350" height="144" border="0" />
 
@@ -37,7 +37,7 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 
 <tr> 
 
-<td colspan="3"> <p><strong>Furukista. Pris 2 990:-</strong></p> <p>Vid köp av endast begravningskista om ni ej beställer begravning via oss. Pris 3 990:-</p> <p><strong> </strong></p> 
+<td colspan="3"> <p><strong>Furukista</strong></p> <p>Vid köp av endast begravningskista om ni ej beställer begravning via oss. Pris 3 990:-</p> <p><strong> </strong></p> 
 
 </td> 
 
@@ -47,7 +47,7 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 
 <tr> 
 
-<td>
+<td><p style="font-size:20px;"><strong>Pris 3990</strong></p>
 
 <img style="float: left;" src="images/bilder/rootsi_krematsioonikirst_malad.png" alt="" width="350" height="144" _order="0" />
 
@@ -65,7 +65,7 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 
 <td colspan="3"_>
 
-<p><strong>Målad furu</strong> i valfri färg, betsad eller täckande. <strong>Pris 3 990:-</strong></p>
+<p><strong>Målad furu</strong> i valfri färg, betsad eller täckande.</p>
 
 <p>Vid köp av endast begravningskista om ni ej beställer begravning via oss. Pris 4 990:-</p>
 
@@ -83,7 +83,7 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 
 <td>
 
-<p><strong>Pris 3990</strong></p>
+<p style="font-size:20px;"><strong>Pris 3990</strong></p>
 
 <img style="float: left;" src="images/bilder/1.Ängsro-med-handtag-768x403.jpg" alt="" width="350" height="144" _order="0" />
 
@@ -119,7 +119,7 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 
 <td>
 
-<p><strong>Pris 4990</strong></p>
+<p style="font-size:20px;"><strong>Pris 4990</strong></p>
 
 <img style="float: left;" src="images/bilder/3.Sandholm-natur-stor-768x396.jpg" alt="" width="350" height="144" _order="0" />
 
@@ -179,7 +179,7 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 
 <td>
 
-<p><strong>Pris 5990</strong></p>
+<p style="font-size:20px;"><strong>Pris 5990</strong></p>
 
 <img style="float: left;" src="images/bilder/6.Kullamark-Allmogegrå-stor-2-768x370.jpg" alt="" width="350" height="144" border="0" /></td>
 
@@ -279,7 +279,7 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 
 </td>
 
-<td_>
+<td>
 
 <p><strong>Hovdala Midnattsblå</strong></p>
 
@@ -305,7 +305,7 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 
 <td>
 
-<p><strong>Pris 6990</strong></p>
+<p style="font-size:20px;"><strong>Pris 6990</strong></p>
 
 <img style="float: left;" src="images/bilder/16.Högtorn-ekbets-stor-1-2-768x376.jpg" alt="" width="350" height="144" border="0" />
 
@@ -359,7 +359,7 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 
 <td>
 
-<p><strong>Pris 7990</strong></p>
+<p style="font-size:20px;"><strong>Pris 7990</strong></p>
 
 <img style="float: left;" src="images/bilder/20.Ekenäs-ljus-stor-1-768x365.jpg" alt="" width="350" height="144" border="0" /></td>
 
