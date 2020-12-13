@@ -17,113 +17,377 @@ draft: true
 Vi har _urnor_ i Stockholm med olika former, material och prisnivåer. Från _billiga urnor_ och dyrare urnor i exklusivare utförande. Urnor köper du i samband med att du bokar [**begravningsceremoni**](begravningen/ceremonin/).
 
 <table class="table">
+
 <tbody>
+
 <tr>
-<td style="width: 200px;"><img style="vertical-align: middle;" src="images/bilder/billigaurnor.png" alt="billiga urnor" width="100" height="160" border="0" /></td>
-<td style="width: 200px;"><img style="vertical-align: middle;" src="images/bilder/dsc01869_fri.png" alt="" width="100" height="149" border="0" /></td>
-</tr>
-<tr>
-<td style="width: 200px;" colspan="3">
-<p><strong>Tygdraperad urna</strong>, finns i blå och vit. <strong>Pris 990:- </strong></p>
+
+<td>
+
+<img style="float: left;" src="images/bilder/billigakistor.png" alt="billiga kistor" width="350" height="144" border="0" />
+
 </td>
-</tr>
-<tr>
-<td style="width: 200px;"> </td>
-<td style="width: 200px;"> </td>
-<td style="width: 200px;"> </td>
-</tr>
-<tr>
-<td style="width: 200px;" colspan="3"> </td>
-</tr>
-<tr>
-<td style="width: 200px;"><img style="float: left;" src="images/bilder/urna_vit_webb.jpg" alt="" width="106" height="155" border="0" /></td>
-<td style="width: 200px;"> </td>
-</tr>
-<tr>
-<td style="width: 200px;" colspan="3">
-<p><strong>Träurna med kors</strong>  vitmålad. <strong>Pris 750:-</strong></p>
-<p><strong> <br /></strong></p>
-</td>
-</tr>
-<tr>
-<td><img style="float: left;" src="images/bilder/dsc02010_fri.png" alt="" width="121" height="170" border="0" /></td>
-<td> </td>
-</tr>
-<tr>
-<td colspan="3">
-<p><strong>Model 210</strong> finns laserad i  grått, blå-svart. <strong>Pris 1 190:-</strong></p>
-<p><strong> </strong></p>
-</td>
-</tr>
-<tr>
-<td><img style="float: left;" src="images/bilder/dsc02005_fri.png" alt="" width="114" height="160" border="0" /></td>
-<td> </td>
-<td> </td>
-</tr>
-<tr>
-<td colspan="3">
-<p><strong>Träurna</strong> <strong>modell 206</strong>. <strong>Pris 890:-</strong></p>
-<p> </p>
-</td>
-</tr>
-<tr>
-<td style="width: 200px;"><img style="border: 0px none;" src="images/bilder/ask1_010jgro_746.png" alt="" width="100" height="160" border="0" /></td>
-<td style="width: 200px;"><img style="vertical-align: middle;" src="images/bilder/ask1_010jvit_0751.png" alt="" width="100" height="160" border="0" /></td>
-<td style="width: 200px;"> </td>
-</tr>
-<tr>
-<td style="width: 200px;" colspan="3">
-<p><strong>ALFA</strong>, urna i plåt/zink med flamma. <strong>Pris 1 290:-</strong></p>
-<p> </p>
-</td>
-</tr>
-<tr>
-<td style="width: 200px;"><img style="float: left;" src="images/bilder/Vittsjo-rod-1-194x300.jpg" width="100" alt="Miljöurna Vittsjö röd" border="0" /></td>
-<td style="width: 200px;"><img style="float: left;" src="images/bilder/Vittsjo-krita-190x300.jpg" width="100" alt="Miljöurna Vittsjö krita" border="0" /> </td>
-<td style="width: 200px;"><img style="float: left;" src="images/bilder/Vittsjo-sand-190x300.jpg" width="100" alt="Miljöurna Vittsjö sand" border="0" />  </td>
-<td style="width: 200px;"><img style="float: left;" src="images/bilder/Vittsjo-grafit-190x300.jpg" width="100" alt="Miljöurna Vittsjö grafit" border="0" />  </td>
+
+<td> 
+
+</td> 
+
+</tr> 
+
+<tr> 
+
+<td colspan="3"> <p><strong>Furukista. Pris 2 990:-</strong></p> <p>Vid köp av endast begravningskista om ni ej beställer begravning via oss. Pris 3 990:-</p> <p><strong> </strong></p> 
+
+</td> 
 
 </tr>
-<tr>
-<td style="width: 200px;"><img style="float: left;" src="images/bilder/Vittsjo-svart-190x300.jpg" width="100" alt="Miljöurna Vittsjö svart" border="0" />  </td>
-<td style="width: 200px;"><img style="float: left;" src="images/bilder/Vittsjo-gron-1-191x300.jpg" width="100" alt="Miljöurna Vittsjö grön" border="0" />  </td>
-<td style="width: 200px;"><img style="float: left;" src="images/bilder/Vittsjo-bla-1-191x300.jpg" width="100" alt="Miljöurna Vittsjö blå" border="0" />  </td>
-</tr>
-<tr>
-<td style="width: 200px;" colspan="3">
-<p><strong>Miljöurna</strong>, finns i olika färger. <strong>Pris 790:-</strong></p>
-<p> </p>
+
+ 
+
+<tr> 
+
+<td>
+
+<img style="float: left;" src="images/bilder/rootsi_krematsioonikirst_malad.png" alt="" width="350" height="144" _order="0" />
+
 </td>
-</tr>
-<tr>
-<td style="width: 200px;"><img style="float: left; border: 0px none;" src="images/bilder/barkurna_svart.png" alt="" width="100" height="170" border="0" /></td>
-<td style="width: 200px;"> </td>
-<td style="width: 200px;"> </td>
-</tr>
-<tr>
-<td style="width: 200px;" colspan="3">
-<p><strong>Barkurna</strong>, finns i svart och brunröd. <strong>Pris 1 290:-</strong></p>
-<p> </p>
+
+<td> 
+
+<td>
+
+<td>
+
+<img style="float: left;" src="images/bilder/rootsi_krematsioonikirst_bla.png" alt="" width="350" height="144" border="0" />
+
 </td>
+
 </tr>
+
 <tr>
-<td colspan="3"><img style="float: left; border: 0px none;" src="images/bilder/ask1-30kgro-0756.jpg" alt="" width="100" height="160" border="0" /></td>
-</tr>
-<tr>
-<td colspan="3">
-<p><strong>Delta</strong>, finns i grön eller vit med kors eller flamma. <strong>Pris 1 390:-</strong></p>
-<p><strong> </strong></p>
+
+<td colspan="3"_>
+
+<p><strong>Målad furu</strong> i valfri färg, betsad eller täckande. <strong>Pris 3 990:-</strong></p>
+
+<p>Vid köp av endast begravningskista om ni ej beställer begravning via oss. Pris 4 990:-</p>
+
+<p> </p>
+
 </td>
+
 </tr>
+
+<tr></tr>
+
+   
+
 <tr>
-<td><img style="float: left;" src="images/bilder/dsc01891_fri.png" alt="" width="191" height="170" border="0" /></td>
-<td> </td>
-<td> </td>
+
+<td>
+
+<p><strong>Pris 3990</strong></p>
+
+<img style="float: left;" src="images/bilder/1.Ängsro-med-handtag-768x403.jpg" alt="" width="350" height="144" _order="0" />
+
+</td>
+
+<td> 
+
+<td>
+
+<td>
+
+<img style="float: left;" src="images/bilder/2.Videdal-brun-768x398.jpg" alt="" width="350" height="144" border="0" /></td>
+
 </tr>
+
 <tr>
-<td colspan="3"><strong>Urna modell 100</strong>. <strong>Pris 1 390:-</strong></td>
+
+<td colspan="3"_>
+
+<p><strong>Ängsro</strong></p>
+
+<p></p>
+
+</td>
+
+<td colspan="3"_>
+
+<p><strong>Videdal brun</strong></p>
+
+<p></p>
+
+</td>
+
 </tr>
+
+<tr> 
+
+<td>
+
+<img style="float: left;" src="images/bilder/3.Sandholm-natur-stor-768x396.jpg" alt="" width="350" height="144" _order="0" />
+
+</td>
+
+<td> 
+
+<td>
+
+<td>
+
+<img style="float: left;" src="images/bilder/4.Sandholm-antikbrun-stor-768x386.jpg" alt="" width="350" height="144" border="0" />
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="3"_>
+
+<p><strong>Sandholm natur</strong></p>
+
+<p> </p>
+
+</td>
+
+<td colspan="3"_>
+
+<p><strong>Sandholm antikbrun</strong></p>
+
+<p> </p>
+
+</td>
+
+</tr>
+
+  
+
+<tr> 
+
+<td>
+
+<img style="float: left;" src="images/bilder/5.Sandholm-vit-stor-768x380.jpg" alt="" width="350" height="144" _order="0" /></td>
+
+<td> <td>
+
+<td><img style="float: left;" src="images/bilder/6.Kullamark-Allmogegrå-stor-2-768x370.jpg" alt="" width="350" height="144" border="0" /></td>
+
+</tr>
+
+<tr>
+
+<td colspan="3"_>
+
+<p><strong>Sandholm vit</strong></p>
+
+</td>
+
+<td>
+
+<p><strong>Kullamark Allmogegrå</strong></p>
+
+</td>
+
+</tr>
+
+<tr> <td>
+
+<img style="float: left;" src="images/bilder/7.Kullamark-Lindblomsgrön-stor-2-768x351.jpg" alt="" width="350" height="144" _order="0" /></td>
+
+<td> <td>
+
+<td><img style="float: left;" src="images/bilder/8.Kullamark-Duvblå-stor-768x339.jpg" alt="" width="350" height="144" border="0" /></td>
+
+</tr>
+
+<tr>
+
+<td colspan="3"_>
+
+<p><strong>Kullamark Lindblomsgrön</strong>
+
+</td>
+
+<td colspan="3"_>
+
+<p><strong>Kullamark Duvblå</strong>
+
+</td>
+
+</tr>
+
+<tr> <td><img style="float: left;" src="images/bilder/9.Kullamark-Puderrosa-stor-ljusblomma-768x357.jpg" alt="" width="350" height="144" _order="0" /></td>
+
+<td> <td>
+
+<td><img style="float: left;" src="images/bilder/10.Kullamark-Kritvit-stor-768x344.jpg" alt="" width="350" height="144" border="0" /></td>
+
+</tr>
+
+<tr>
+
+<td colspan="3"_>
+
+<p><strong>Kullamark Puderrosa</strong> 
+
+</td>
+
+<td colspan="3"_>
+
+<p><strong>Kullamark Kritvit</strong> 
+
+</td>
+
+</tr>
+
+<tr> <td><img style="float: left;" src="images/bilder/11.Alvö-ekbets-stor-1-768x382.jpg" alt="" width="350" height="144" _order="0" /></td>
+
+<td> <td>
+
+<td><img style="float: left;" src="images/bilder/12.Alvö-hasselbrun-stor-1-768x395.jpg" alt="" width="350" height="144" border="0" /></td>
+
+</tr>
+
+<tr>
+
+<td colspan="3"_>
+
+<p><strong>Alvö Ekbets</strong> 
+
+</td>
+
+<td colspan="3"_>
+
+<p><strong>Alvö Hasselbrun</strong> 
+
+</td>
+
+</tr>
+
+<tr> <td><img style="float: left;" src="images/bilder/13.Alvö-solidvit-stor-1-768x417.jpg" alt="" width="350" height="144" _order="0" /></td>
+
+<td> <td>
+
+<td><img style="float: left;" src="images/bilder/14.Hovdala-midnattsblå-stor-1-1-768x359.jpg" alt="" width="350" height="144" border="0" /></td>
+
+</tr>
+
+<tr>
+
+<td colspan="3"_>
+
+<p><strong>Alvö Solidvit</strong></p>
+
+</td>
+
+<td colspan="3"_>
+
+<p><strong>Hovdala Midnattsblå</strong></p>
+
+</td>
+
+</tr>
+
+<tr> <td><img style="float: left;" src="images/bilder/15.Hovdala-svart-stor-1-768x377.jpg" alt="" width="350" height="144" _order="0" /></td>
+
+<td> <td>
+
+<td><img style="float: left;" src="images/bilder/16.Högtorn-ekbets-stor-1-2-768x376.jpg" alt="" width="350" height="144" border="0" /></td>
+
+</tr>
+
+<tr>
+
+<td colspan="3"_>
+
+<p><strong>Hovdala Svart</strong></p>
+
+</td>
+
+<td colspan="3"_>
+
+<p><strong>Högtorn Ekbets</strong></p>
+
+</td>
+
+</tr>
+
+<tr> <td><img style="float: left;" src="images/bilder/17.Högtorn-valnöt-stor-1-2-768x362.jpg" alt="" width="350" height="144" _order="0" /></td>
+
+<td> <td>
+
+<td><img style="float: left;" src="images/bilder/18.Högtorn-solidvit-stor-1-1-768x348.jpg" alt="" width="350" height="144" border="0" /></td>
+
+</tr>
+
+<tr>
+
+<td colspan="3"_>
+
+<p><strong>Högtorn Valnöt</strong></p>
+
+</td>
+
+<td colspan="3"_>
+
+<p><strong>Högtorn Solidvit</strong></p>
+
+</td>
+
+</tr>
+
+<tr> <td><img style="float: left;" src="images/bilder/19.Högtorn-mahogny-stor-1-1-768x337.jpg" alt="" width="350" height="144" _order="0" /></td>
+
+<td> <td>
+
+<td><img style="float: left;" src="images/bilder/20.Ekenäs-ljus-stor-1-768x365.jpg" alt="" width="350" height="144" border="0" /></td>
+
+</tr>
+
+<tr>
+
+<td colspan="3"_>
+
+<p><strong>Högtorn Mahogny</strong></p>
+
+</td>
+
+<td colspan="3"_>
+
+<p><strong>Ekenäs Ljus</strong></p>
+
+</td>
+
+</tr
+
+<tr> <td><img style="float: left;" src="images/bilder/21.Ekenäs-mörk-stor-1-768x374.jpg" alt="" width="350" height="144" _order="0" /></td>
+
+<td> <td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td colspan="3"_>
+
+<p><strong>Ekenäs Mörk</strong></p>
+
+</td>
+
+</tr
+
+<tr>
+
+<td colspan="3">Bildernas färgåtergivning kan skilja sig från de verkliga färgerna. </td>
+
+</tr>
+
 </tbody>
+
 </table>
 
 ## Bra att veta om urnor och urnbegravningar
