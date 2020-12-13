@@ -9,7 +9,6 @@ categories:
 layout: subsection
 description: 'Vi har urnor i Stockholm i många olika stilar. Från enkla & billiga
   urnor till exklusiva urnor i fina material. Se våra urnor här! '
-draft: true
 
 ---
 # Hitta billiga urnor hos oss
