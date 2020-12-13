@@ -55,10 +55,6 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 
 <td> 
 
-<td>
-
-<td>
-
 <img style="float: left;" src="images/bilder/rootsi_krematsioonikirst_bla.png" alt="" width="350" height="144" border="0" />
 
 </td>
@@ -95,17 +91,13 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 
 <td> 
 
-<td>
-
-<td>
-
 <img style="float: left;" src="images/bilder/2.Videdal-brun-768x398.jpg" alt="" width="350" height="144" border="0" /></td>
 
 </tr>
 
 <tr>
 
-<td colspan="3"_>
+<td>
 
 <p><strong>Ängsro</strong></p>
 
@@ -113,7 +105,7 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 
 </td>
 
-<td colspan="3"_>
+<td>
 
 <p><strong>Videdal brun</strong></p>
 
@@ -123,19 +115,19 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 
 </tr>
 
-<tr> 
+<tr>
 
 <td>
+
+<p><strong>Pris 4990</strong></p>
 
 <img style="float: left;" src="images/bilder/3.Sandholm-natur-stor-768x396.jpg" alt="" width="350" height="144" _order="0" />
 
 </td>
 
+ 
+
 <td> 
-
-<td>
-
-<td>
 
 <img style="float: left;" src="images/bilder/4.Sandholm-antikbrun-stor-768x386.jpg" alt="" width="350" height="144" border="0" />
 
@@ -145,7 +137,7 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 
 <tr>
 
-<td colspan="3"_>
+<td>
 
 <p><strong>Sandholm natur</strong></p>
 
@@ -153,7 +145,7 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 
 </td>
 
-<td colspan="3"_>
+<td>
 
 <p><strong>Sandholm antikbrun</strong></p>
 
@@ -171,10 +163,6 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 
 <img style="float: left;" src="images/bilder/5.Sandholm-vit-stor-768x380.jpg" alt="" width="350" height="144" _order="0" /></td>
 
-<td> <td>
-
-<td><img style="float: left;" src="images/bilder/6.Kullamark-Allmogegrå-stor-2-768x370.jpg" alt="" width="350" height="144" border="0" /></td>
-
 </tr>
 
 <tr>
@@ -185,21 +173,15 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 
 </td>
 
-<td>
-
-<p><strong>Kullamark Allmogegrå</strong></p>
-
-</td>
-
 </tr>
 
-<tr> <td>
+<tr> 
 
-<img style="float: left;" src="images/bilder/7.Kullamark-Lindblomsgrön-stor-2-768x351.jpg" alt="" width="350" height="144" _order="0" /></td>
+<td>
 
-<td> <td>
+<p><strong>Pris 5990</strong></p>
 
-<td><img style="float: left;" src="images/bilder/8.Kullamark-Duvblå-stor-768x339.jpg" alt="" width="350" height="144" border="0" /></td>
+<img style="float: left;" src="images/bilder/6.Kullamark-Allmogegrå-stor-2-768x370.jpg" alt="" width="350" height="144" border="0" /></td>
 
 </tr>
 
@@ -207,11 +189,31 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 
 <td colspan="3"_>
 
+<p><strong>Kullamark Allmogegrå</strong></p>
+
+</td>
+
+</tr>
+
+<tr> 
+
+<td>
+
+<img style="float: left;" src="images/bilder/7.Kullamark-Lindblomsgrön-stor-2-768x351.jpg" alt="" width="350" height="144" _order="0" /></td>
+
+<td><img style="float: left;" src="images/bilder/8.Kullamark-Duvblå-stor-768x339.jpg" alt="" width="350" height="144" border="0" /></td>
+
+</tr>
+
+<tr>
+
+<td>
+
 <p><strong>Kullamark Lindblomsgrön</strong>
 
 </td>
 
-<td colspan="3"_>
+<td>
 
 <p><strong>Kullamark Duvblå</strong>
 
@@ -221,21 +223,19 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 
 <tr> <td><img style="float: left;" src="images/bilder/9.Kullamark-Puderrosa-stor-ljusblomma-768x357.jpg" alt="" width="350" height="144" _order="0" /></td>
 
-<td> <td>
-
 <td><img style="float: left;" src="images/bilder/10.Kullamark-Kritvit-stor-768x344.jpg" alt="" width="350" height="144" border="0" /></td>
 
 </tr>
 
 <tr>
 
-<td colspan="3"_>
+<td>
 
 <p><strong>Kullamark Puderrosa</strong> 
 
 </td>
 
-<td colspan="3"_>
+<td>
 
 <p><strong>Kullamark Kritvit</strong> 
 
@@ -245,21 +245,19 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 
 <tr> <td><img style="float: left;" src="images/bilder/11.Alvö-ekbets-stor-1-768x382.jpg" alt="" width="350" height="144" _order="0" /></td>
 
-<td> <td>
-
 <td><img style="float: left;" src="images/bilder/12.Alvö-hasselbrun-stor-1-768x395.jpg" alt="" width="350" height="144" border="0" /></td>
 
 </tr>
 
 <tr>
 
-<td colspan="3"_>
+<td>
 
 <p><strong>Alvö Ekbets</strong> 
 
 </td>
 
-<td colspan="3"_>
+<td>
 
 <p><strong>Alvö Hasselbrun</strong> 
 
@@ -269,21 +267,19 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 
 <tr> <td><img style="float: left;" src="images/bilder/13.Alvö-solidvit-stor-1-768x417.jpg" alt="" width="350" height="144" _order="0" /></td>
 
-<td> <td>
-
 <td><img style="float: left;" src="images/bilder/14.Hovdala-midnattsblå-stor-1-1-768x359.jpg" alt="" width="350" height="144" border="0" /></td>
 
 </tr>
 
 <tr>
 
-<td colspan="3"_>
+<td>
 
 <p><strong>Alvö Solidvit</strong></p>
 
 </td>
 
-<td colspan="3"_>
+<td_>
 
 <p><strong>Hovdala Midnattsblå</strong></p>
 
@@ -293,87 +289,93 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 
 <tr> <td><img style="float: left;" src="images/bilder/15.Hovdala-svart-stor-1-768x377.jpg" alt="" width="350" height="144" _order="0" /></td>
 
-<td> <td>
-
-<td><img style="float: left;" src="images/bilder/16.Högtorn-ekbets-stor-1-2-768x376.jpg" alt="" width="350" height="144" border="0" /></td>
-
 </tr>
 
 <tr>
 
-<td colspan="3"_>
+<td>
 
 <p><strong>Hovdala Svart</strong></p>
 
 </td>
 
-<td colspan="3"_>
+</tr>
+
+<tr>
+
+<td>
+
+<p><strong>Pris 6990</strong></p>
+
+<img style="float: left;" src="images/bilder/16.Högtorn-ekbets-stor-1-2-768x376.jpg" alt="" width="350" height="144" border="0" />
+
+</td>
+
+<td><img style="float: left;" src="images/bilder/17.Högtorn-valnöt-stor-1-2-768x362.jpg" alt="" width="350" height="144" _order="0" /></td>
+
+</tr>
+
+<tr>
+
+<td>
 
 <p><strong>Högtorn Ekbets</strong></p>
 
 </td>
 
-</tr>
-
-<tr> <td><img style="float: left;" src="images/bilder/17.Högtorn-valnöt-stor-1-2-768x362.jpg" alt="" width="350" height="144" _order="0" /></td>
-
-<td> <td>
-
-<td><img style="float: left;" src="images/bilder/18.Högtorn-solidvit-stor-1-1-768x348.jpg" alt="" width="350" height="144" border="0" /></td>
-
-</tr>
-
-<tr>
-
-<td colspan="3"_>
+<td>
 
 <p><strong>Högtorn Valnöt</strong></p>
 
 </td>
 
-<td colspan="3"_>
+</tr>
+
+<tr> 
+
+<td><img style="float: left;" src="images/bilder/18.Högtorn-solidvit-stor-1-1-768x348.jpg" alt="" width="350" height="144" border="0" /></td>
+
+<td><img style="float: left;" src="images/bilder/19.Högtorn-mahogny-stor-1-1-768x337.jpg" alt="" width="350" height="144" _order="0" /></td>
+
+</tr>
+
+<tr>
+
+<td>
 
 <p><strong>Högtorn Solidvit</strong></p>
 
 </td>
 
-</tr>
-
-<tr> <td><img style="float: left;" src="images/bilder/19.Högtorn-mahogny-stor-1-1-768x337.jpg" alt="" width="350" height="144" _order="0" /></td>
-
-<td> <td>
-
-<td><img style="float: left;" src="images/bilder/20.Ekenäs-ljus-stor-1-768x365.jpg" alt="" width="350" height="144" border="0" /></td>
-
-</tr>
-
-<tr>
-
-<td colspan="3"_>
+<td>
 
 <p><strong>Högtorn Mahogny</strong></p>
 
 </td>
 
-<td colspan="3"_>
+</tr>
 
-<p><strong>Ekenäs Ljus</strong></p>
+<tr> 
 
-</td>
+<td>
 
-</tr
+<p><strong>Pris 7990</strong></p>
 
-<tr> <td><img style="float: left;" src="images/bilder/21.Ekenäs-mörk-stor-1-768x374.jpg" alt="" width="350" height="144" _order="0" /></td>
+<img style="float: left;" src="images/bilder/20.Ekenäs-ljus-stor-1-768x365.jpg" alt="" width="350" height="144" border="0" /></td>
 
-<td> <td>
-
-<td></td>
+<td><img style="float: left;" src="images/bilder/21.Ekenäs-mörk-stor-1-768x374.jpg" alt="" width="350" height="144" _order="0" /></td>
 
 </tr>
 
 <tr>
 
-<td colspan="3"_>
+<td>
+
+<p><strong>Ekenäs Ljus</strong></p>
+
+</td>
+
+<td>
 
 <p><strong>Ekenäs Mörk</strong></p>
 
