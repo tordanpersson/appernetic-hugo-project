@@ -13,6 +13,6 @@ Om Ni så önskar kan ni givetvis ta farväl av den avlidne genom att vi på ABC
 
 Detta kan vara önskvärt om ni exempelvis har valt att genomföra en begravning utan ceremoni. Här har ni ändå chans att ta ett sista farväl av den avlidne i en stängd eller öppen kista.
 
-Om visning sker i samband med bisättning det vill säga när vi klär på och kistlägger den avlidne, är kostnaden 1490:-
+Om visning sker i samband med bisättning det vill säga när vi klär på och kistlägger den avlidne, är kostnaden 1990:-
 
 I annat fall kostar en visning 1490:- plus eventuell hyreskostnad för lokal.
