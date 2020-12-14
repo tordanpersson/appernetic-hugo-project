@@ -98,7 +98,7 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 </tr>
 <tr>
 <td colspan="3"_>
-<p><strong>Sandholm vit laserad</strong></p>
+<p><strong>Sandholm vitlaserad</strong></p>
 </td>
 </tr>
 
