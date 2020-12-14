@@ -15,4 +15,4 @@ Detta kan vara önskvärt om ni exempelvis har valt att genomföra en begravning
 
 Om visning sker i samband med bisättning det vill säga när vi klär på och kistlägger den avlidne, är kostnaden 990:-
 
-I annat fall kostar en visning 990:- plus eventuell hyreskostnad för lokal.
+I annat fall kostar en visning 1490:- plus eventuell hyreskostnad för lokal.
