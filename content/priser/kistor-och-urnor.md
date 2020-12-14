@@ -36,7 +36,7 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 <td><p style="font-size:20px;"><strong>Pris 3990:-</strong></p>
 <img style="float: left;" src="images/bilder/rootsi_krematsioonikirst_malad.png" alt="" width="350" height="144" _order="0" />
 </td>
-<td> 
+<td><p style="font-size:20px;"><strong></strong></p>
 <img style="float: left;" src="images/bilder/rootsi_krematsioonikirst_bla.png" alt="" width="350" height="144" border="0" />
 </td>
 </tr>
@@ -74,7 +74,7 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 <img style="float: left;" src="images/bilder/3.Sandholm-natur-stor-768x396.jpg" alt="" width="350" height="144" _order="0" />
 </td>
  
-<td> 
+<td><p style="font-size:20px;"><strong></strong></p> 
 <img style="float: left;" src="images/bilder/4.Sandholm-antikbrun-stor-768x386.jpg" alt="" width="350" height="144" border="0" />
 </td>
 </tr>
@@ -146,7 +146,7 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 <p style="font-size:20px;"><strong>Pris 6990:-</strong></p>
 <img style="float: left;" src="images/bilder/11.Alvö-ekbets-stor-1-768x382.jpg" alt="" width="350" height="144" _order="0" /></td>
 
-<td><img style="float: left;" src="images/bilder/12.Alvö-hasselbrun-stor-1-768x395.jpg" alt="" width="350" height="144" border="0" /></td>
+<td><p style="font-size:20px;"><strong></strong></p><img style="float: left;" src="images/bilder/12.Alvö-hasselbrun-stor-1-768x395.jpg" alt="" width="350" height="144" border="0" /></td>
 </tr>
 <tr>
 <td>
@@ -219,7 +219,7 @@ Vi leverar prisvärda och billiga begravningskistor. En **billig begravningskist
 <td>
 <p style="font-size:20px;"><strong>Pris 8290:-</strong></p>
 <img style="float: left;" src="images/bilder/20.Ekenäs-ljus-stor-1-768x365.jpg" alt="" width="350" height="144" border="0" /></td>
-<td><img style="float: left;" src="images/bilder/21.Ekenäs-mörk-stor-1-768x374.jpg" alt="" width="350" height="144" _order="0" /></td>
+<td><p style="font-size:20px;"><strong></strong></p><img style="float: left;" src="images/bilder/21.Ekenäs-mörk-stor-1-768x374.jpg" alt="" width="350" height="144" _order="0" /></td>
 </tr>
 <tr>
 <td>
