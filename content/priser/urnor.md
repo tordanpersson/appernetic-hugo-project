@@ -15,6 +15,9 @@ description: 'Vi har urnor i Stockholm i många olika stilar. Från enkla & bill
 
 Vi har _urnor_ i Stockholm med olika former, material och prisnivåer. Från _billiga urnor_ och dyrare urnor i exklusivare utförande. Urnor köper du i samband med att du bokar [**begravningsceremoni**](begravningen/ceremonin/).
 
+<!-- Bootstrap core CSS -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
 <table class="table">
 <tbody>
 <tr>
@@ -124,6 +127,30 @@ Vi har _urnor_ i Stockholm med olika former, material och prisnivåer. Från _bi
 </tr>
 </tbody>
 </table>
+
+<section id="produkter">
+<div class="container-fluid pt-5">
+   <div class="container d-flex justify-content-center mt-50 mb-50">
+    <div class="row"> 
+        <div class="col-md-4 mt-2">
+            <div class="card">
+                <div class="card-body">
+                    <div class="card-img-actions"> <img src="images/bilder/23Torup-svart-189x300.jpg" class="card-img img-fluid" alt="" width="106" height="155"> </div>
+                </div>
+                <div class="card-body bg-light text-center">
+                    <div class="mb-2">
+                         <strong>Torup svart</strong>
+                    </div>
+                    <h3 class="mb-0 font-weight-semibold"></h3>
+                </div>
+            </div>
+        </div>                                                                                             
+        
+    </div>
+ </div>
+</div>
+
+</section> 
 
 ## Bra att veta om urnor och urnbegravningar
 
