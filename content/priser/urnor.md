@@ -125,30 +125,6 @@ Vi har _urnor_ i Stockholm med olika former, material och prisnivåer. Från _bi
 </tbody>
 </table>
 
-
-<div>
-   <div>
-    <div> 
-        <div>
-            <div>
-                <div>
-                    <div> <img src="images/bilder/23Torup-svart-189x300.jpg" class="card-img img-fluid" alt="" width="106" height="155"> </div>
-                </div>
-                <div>
-                    <div>
-                         <strong>Torup svart</strong>
-                    </div>
-                    <h3></h3>
-                </div>
-            </div>
-        </div>                                                                                             
-        
-    </div>
- </div>
-</div>
-
-
-
 ## Bra att veta om urnor och urnbegravningar
 
 **Urnbegravning** blir vanligare nu när nya begravningslagen trädde i kraft för några år sen som sa att man då ska gravsättas eller kremeras senast en månad efter dödsfallet.
