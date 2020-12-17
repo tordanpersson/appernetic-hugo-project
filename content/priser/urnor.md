@@ -131,7 +131,7 @@ Vi har _urnor_ i Stockholm med olika former, material och prisnivåer. Från _bi
     <div> 
         <div>
             <div>
-                <div class="card-body">
+                <div>
                     <div> <img src="images/bilder/23Torup-svart-189x300.jpg" class="card-img img-fluid" alt="" width="106" height="155"> </div>
                 </div>
                 <div>
