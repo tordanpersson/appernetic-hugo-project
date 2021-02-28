@@ -97,15 +97,15 @@ Vi har _urnor_ i Stockholm med olika former, material och prisnivåer. Från _bi
 
           <td style="width: 200px;"><img style="float: left;" src="images/bilder/Vittsjo-rod-1-194x300.jpg"
 
-              alt="MiljÃ¶urna VittsjÃ¶ rÃ¶d" width="100" border="0"></td>
+              alt="Miljöurna Vittsjö röd" width="100" border="0"></td>
 
           <td style="width: 200px;"><img style="float: left;" src="images/bilder/Vittsjo-krita-190x300.jpg"
 
-              alt="MiljÃ¶urna VittsjÃ¶ krita" width="100" border="0"> </td>
+              alt="Miljöurna Vittsjö krita" width="100" border="0"> </td>
 
           <td style="width: 200px;"><img style="float: left;" src="images/bilder/Vittsjo-sand-190x300.jpg"
 
-              alt="MiljÃ¶urna VittsjÃ¶ sand" width="100" border="0"> </td>
+              alt="Miljöurna Vittsjö sand" width="100" border="0"> </td>
 
         </tr>
 
@@ -113,15 +113,15 @@ Vi har _urnor_ i Stockholm med olika former, material och prisnivåer. Från _bi
 
           <td style="width: 200px;"><img style="float: left;" src="images/bilder/Vittsjo-svart-190x300.jpg"
 
-              alt="MiljÃ¶urna VittsjÃ¶ svart" width="100" border="0"> </td>
+              alt="Miljöurna Vittsjö svart" width="100" border="0"> </td>
 
           <td style="width: 200px;"><img style="float: left;" src="images/bilder/Vittsjo-gron-1-191x300.jpg"
 
-              alt="MiljÃ¶urna VittsjÃ¶ grÃ¶n" width="100" border="0"> </td>
+              alt="Miljöurna Vittsjö grön" width="100" border="0"> </td>
 
           <td style="width: 200px;"><img style="float: left;" src="images/bilder/Vittsjo-bla-1-191x300.jpg"
 
-              alt="MiljÃ¶urna VittsjÃ¶ blÃ¥" width="100" border="0"> </td>
+              alt="Miljöurna Vittsjö blå" width="100" border="0"> </td>
 
         </tr>
 
@@ -133,7 +133,7 @@ Vi har _urnor_ i Stockholm med olika former, material och prisnivåer. Från _bi
 
           <td style="width: 200px;"><img style="float: left;" src="images/bilder/Vittsjo-grafit-190x300.jpg"
 
-              alt="MiljÃ¶urna VittsjÃ¶ grafit" width="100" border="0"> </td>
+              alt="Miljöurna Vittsjö grafit" width="100" border="0"> </td>
 
           <td style="width: 200px;"> <br>
 
