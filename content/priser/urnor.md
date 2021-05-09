@@ -31,7 +31,7 @@ Vi har _urnor_ i Stockholm med olika former, material och prisnivåer. Från _bi
 
 <p><strong>Tygdraperad </strong>vit urna<strong> Pris 990:- </strong></p>
 
-<td> </td> <p><strong>Model 210</strong> finns laserad i grått, blå-svart. <strong>Pris 1 190:-</strong></p> <p><strong> </strong></p> </td> </tr> <tr> <td><img style="float: left;" src="images/bilder/dsc02005_fri.png" alt="" height="160" width="114" border="0"><br> <br> <br> <br> <br> <br> <br> <br> </td> </tr> <tr> <td colspan="1"> <p><strong>Träurna</strong> <strong>modell 206</strong>. <strong>Pris 890:-</strong></p> </td> </tr> <tr> <td style="width: 200px;"><img style="float: left;" src="images/bilder/Vittsjo-rod-1-194x300.jp_" alt="Miljöurna Vittsjö röd" width="100" border="0"></td>
+<td> <p><strong>Model 210</strong> finns laserad i grått, blå-svart. <strong>Pris 1 190:-</strong></p> <p><strong> </strong></p> </td> </tr> <tr> <td><img style="float: left;" src="images/bilder/dsc02005_fri.png" alt="" height="160" width="114" border="0"><br> <br> <br> <br> <br> <br> <br> <br> </td> </tr> <tr> <td colspan="1"> <p><strong>Träurna</strong> <strong>modell 206</strong>. <strong>Pris 890:-</strong></p> </td> </tr> <tr> <td style="width: 200px;"><img style="float: left;" src="images/bilder/Vittsjo-rod-1-194x300.jp_" alt="Miljöurna Vittsjö röd" width="100" border="0"></td>
 <td style="width: 200px;"><img style="float: left;" src="images/bilder/Vittsjo-krita-190x300.jpg" alt="Miljöurna Vittsjö krita" width="100" border="0"> </td>
 <td style="width: 200px;"><img style="float: left;" src="images/bilder/Vittsjo-sand-190x300.jpg" alt="Miljöurna Vittsjö sand" width="100" border="0"> </td>
 </tr>
