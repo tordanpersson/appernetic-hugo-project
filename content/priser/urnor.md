@@ -71,7 +71,7 @@ Vi har _urnor_ i Stockholm med olika former, material och prisnivåer. Från _bi
 <td><br>
 </td>
 </tr>
-</tbody>
+</tbody_>
 _</table>
 
 <table class="table"> <tbody> <tr> <hr> <p style="font-size:20px;"><strong>Urnor: Broby, Idala, Torup och Vanås. Pris från 1490:-</strong> </p> <td style="width: 200px;"><img style="float: left;" src="images/bilder/1vanas-natur-189x300.jpg" alt="billiga urnor" width="100" height="160" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/2vanas-antikbrun-189x300.jpg" alt="" width="100" height="149" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/3vanas-vit-lasyr-189x300.jpg" alt="" width="106" height="155" border="0" /></td> </tr> <tr> <td> <p><strong>Vanås natur</strong></p> </td> <td> <p><strong>Vanås antikbrun</strong></p> </td> <td> <p><strong>Vanås vit lasyr</strong></p> </td> </tr>
