@@ -27,8 +27,7 @@ på ABC Lilla begravningsbyrån tagit fram några prisexempel.
 
 Vi finns här för er.
 
-<body>
-    <div class="table-responsive">
+     <div class="table-responsive">
         <table class="table">
             <thead>
                 <tr></tr>
@@ -36,29 +35,29 @@ Vi finns här för er.
             <tbody>
                 <tr>
                     <td>Miljökista i Papp<br></td>
-                    <td class="text-nowrap">1990:-<br></td>
+                    <td class="text-nowrap">1990:-</td>
                     <td></td>
                 </tr>
                 <tr>
                     <td><br>Miljökista i Furu<br><br></td>
                     <td></td>
-                    <td class="text-nowrap">2990:-<br></td>
+                    <td class="text-nowrap">2990:-</td>
                 </tr>
                 <tr>
                     <td>Bisättning, svepning och transport till krematorium<br></td>
-                    <td class="text-nowrap">3600:-<br></td>
-                    <td class="text-nowrap">3600:-<br></td>
+                    <td class="text-nowrap">3600:-</td>
+                    <td class="text-nowrap">3600:-</td>
                 </tr>
                 <tr></tr>
                 <tr>
                     <td>Byråarvode<br></td>
-                    <td class="text-nowrap">310:-<br></td>
-                    <td class="text-nowrap">310:-<br></td>
+                    <td class="text-nowrap">310:-</td>
+                    <td class="text-nowrap">310:-</td>
                 </tr>
                 <tr>
                     <td>Pris inkl moms<br></td>
-                    <td class="text-nowrap">5900:-<br></td>
-                    <td class="text-nowrap">5900:-<br></td>
+                    <td class="text-nowrap">5900:-</td>
+                    <td class="text-nowrap">5900:-</td>
                 </tr>
                 <tr>
                     <td>Är personen storvuxen kan en extra stor kista behövas 4 990:- totalt 8 900:-<br></td>
@@ -76,24 +75,24 @@ Vi finns här för er.
                     <td></td>
                 </tr>
                 <tr>
-                    <td>Kista i furu<br></td>
-                    <td class="text-nowrap">2990:-<br></td>
+                    <td>Kista i furu</td>
+                    <td class="text-nowrap">2990:-</td>
                     <td></td>
                 </tr>
                 <tr>
                     <td>Kista betsad eller målad furu<br></td>
                     <td></td>
-                    <td class="text-nowrap">3990:-<br></td>
+                    <td class="text-nowrap">3990:-</td>
                 </tr>
                 <tr>
                     <td>Bisättning, svepning och transport till kyrka eller kapell<br></td>
-                    <td class="text-nowrap">3800:-<br></td>
-                    <td class="text-nowrap">3800:-<br></td>
+                    <td class="text-nowrap">3800:-</td>
+                    <td class="text-nowrap">3800:-</td>
                 </tr>
                 <tr>
                     <td>Byråarvode<br></td>
-                    <td class="text-nowrap">2800:-<br></td>
-                    <td class="text-nowrap">2800:-<br></td>
+                    <td class="text-nowrap">2800:</td>
+                    <td class="text-nowrap">2800:-</td>
                 </tr>
                 <tr>
                     <td>Representant<br></td>
@@ -102,8 +101,8 @@ Vi finns här för er.
                 </tr>
                 <tr>
                     <td>Pris inkl moms<br></td>
-                    <td class="text-nowrap">10990:-<br></td>
-                    <td class="text-nowrap">10990:-<br></td>
+                    <td class="text-nowrap">10990:-</td>
+                    <td class="text-nowrap">10990:-</td>
                 </tr>
                 <tr>
                     <td><strong>JORDBEGRAVNING I KYRKA ELLER KAPELL</strong><br></td>
@@ -112,37 +111,37 @@ Vi finns här för er.
                 </tr>
                 <tr>
                     <td>Kista i furu<br></td>
-                    <td class="text-nowrap">2990:-<br></td>
+                    <td class="text-nowrap">2990:-</td>
                     <td></td>
                 </tr>
                 <tr>
                     <td>Kista betsad eller målad furu<br></td>
                     <td></td>
-                    <td class="text-nowrap">3990:-<br></td>
+                    <td class="text-nowrap">3990:-</td>
                 </tr>
                 <tr>
                     <td>Bisättning, svepning och transport till kyrka eller kapell<br></td>
-                    <td class="text-nowrap">3800:-<br></td>
-                    <td class="text-nowrap">3800:-<br></td>
+                    <td class="text-nowrap">3800:-</td>
+                    <td class="text-nowrap">3800:-</td>
                 </tr>
                 <tr>
                     <td>Byråarvode<br></td>
-                    <td class="text-nowrap">3900:-<br></td>
-                    <td class="text-nowrap">3900:-<br></td>
+                    <td class="text-nowrap">3900:-</td>
+                    <td class="text-nowrap">3900:-</td>
                 </tr>
                 <tr>
                     <td>Representant<br></td>
-                    <td class="text-nowrap">1400:-<br></td>
-                    <td class="text-nowrap">1400:-<br></td>
+                    <td class="text-nowrap">1400:-</td>
+                    <td class="text-nowrap">1400:-</td>
                 </tr>
                 <tr>
                     <td>Pris inkl moms<br></td>
-                    <td class="text-nowrap">12090:-<br></td>
-                    <td class="text-nowrap">13090:-<br></td>
+                    <td class="text-nowrap">12090:-</td>
+                    <td class="text-nowrap">13090:-</td>
                 </tr>
                 <tr>
                     <td>Bärarlag, sex pers 890:- per person<br></td>
-                    <td class="text-nowrap">5340:-<br></td>
+                    <td class="text-nowrap">5340:-</td>
                     <td></td>
                 </tr>
                 <tr>
@@ -158,22 +157,22 @@ Vi finns här för er.
                 <tr>
                     <td>Visning av den avlidna<br></td>
                     <td></td>
-                    <td class="text-nowrap">1490:-<br></td>
+                    <td class="text-nowrap">1490:-</td>
                 </tr>
                 <tr>
                     <td>Visning av den avlidna i samband med bisättning<br></td>
                     <td></td>
-                    <td class="text-nowrap">1490:-<br></td>
+                    <td class="text-nowrap">1490:-</td>
                 </tr>
                 <tr>
                     <td>Urna tillkommer vid gravsättning, från<br></td>
                     <td></td>
-                    <td class="text-nowrap">490:-<br></td>
+                    <td class="text-nowrap">490:-</td>
                 </tr>
                 <tr>
                     <td>Tyg- och sammetspåsar för aska, från<br></td>
                     <td></td>
-                    <td class="text-nowrap">390:-<br></td>
+                    <td class="text-nowrap">390:-</td>
                 </tr>
                 <tr>
                     <td><strong>Vi står också till tjänst med</strong><br></td>
@@ -183,7 +182,7 @@ Vi finns här för er.
                 <tr>
                     <td>Programblad grundpris<br></td>
                     <td></td>
-                    <td class="text-nowrap">490:-<br></td>
+                    <td class="text-nowrap">490:-</td>
                 </tr>
                 <tr>
                     <td>Programblad per ex<br></td>
@@ -218,7 +217,7 @@ Vi finns här för er.
                 <tr>
                     <td>Extra representant (rek. vid större ceremonier)<br></td>
                     <td></td>
-                    <td class="text-nowrap">1400.-</td>
+                    <td class="text-nowrap">1400:-</td>
                 </tr>
                 <tr>
                     <td>Visning av den avlidna<br></td>
@@ -242,5 +241,5 @@ Vi finns här för er.
                 </tr>
             </tbody>
         </table>
-
+    </div>
 <p><iframe style="border: 0; display: block;" src="https://widget.reco.se/v2/widget/1626775?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no"></iframe></p>
