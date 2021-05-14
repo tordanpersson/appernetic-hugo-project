@@ -89,49 +89,19 @@ Vi har _urnor_ i Stockholm med olika former, material och prisnivåer. Från _bi
 </tbody>
 </table>
 
-<table class="table"> <tbody> <tr> <hr> <p style="font-size:20px;"><strong>Urnor: Broby, Idala, Torup och Vanås. Pris från 1490:-</strong> </p> <td style="width: 200px;"><img style="float: left;" src="images/1vanas-natur-189x300.jpg" alt="billiga urnor" width="100" height="160" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/2vanas-antikbrun-189x300.jpg" alt="" width="100" height="149" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/3vanas-vit-lasyr-189x300.jpg" alt="" width="106" height="155" border="0" /></td> </tr> <tr> <td> <p><strong>Vanås natur</strong></p> </td> <td> <p><strong>Vanås antikbrun</strong></p> </td> <td> <p><strong>Vanås vit lasyr</strong></p> </td> </tr>
+<table class="table"> <tbody> <tr> <hr> <p style="font-size:20px;"><strong>Urnor: Broby, Idala, Torup och Vanås. Pris från 1490:-</strong> </p> <td style="width: 200px;"><img style="float: left;" src="images/bilder/1vanas-natur-189x300.jpg" alt="billiga urnor" width="100" height="160" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/2vanas-antikbrun-189x300.jpg" alt="" width="100" height="149" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/3vanas-vit-lasyr-189x300.jpg" alt="" width="106" height="155" border="0" /></td> </tr> <tr> <td> <p><strong>Vanås natur</strong></p> </td> <td> <p><strong>Vanås antikbrun</strong></p> </td> <td> <p><strong>Vanås vit lasyr</strong></p> </td> </tr>
 
-<tr> <td style="width: 200px;"><img style="float: left;" src="images/bilder/4Vanas-ekbets-189x300.jpg" alt="billiga urnor" width="100" height="160" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/5vanas-hasselbrun-188x300.jpg" alt="" width="100" height="149" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/6vanas-solidvit-188x300.jpg" alt="" width="106" height="155" border="0" /></td> </tr> <tr> <td> <p><strong>Vanås ekbets</strong></p> </td> <td> <p><strong>Vanås hasselbrun</strong></p> </td> <td> <p><strong>Vanås solidvit</strong></p> </td> </tr>
+<tr> <td style="width: 200px;"><img style="float: left;" src="images/bilder/4vanas-ekbets-189x300.jpg" alt="billiga urnor" width="100" height="160" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/5vanas-hasselbrun-188x300.jpg" alt="" width="100" height="149" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/6vanas-solidvit-188x300.jpg" alt="" width="106" height="155" border="0" /></td> </tr> <tr> <td> <p><strong>Vanås ekbets</strong></p> </td> <td> <p><strong>Vanås hasselbrun</strong></p> </td> <td> <p><strong>Vanås solidvit</strong></p> </td> </tr>
 
-<tr> <td style="width: 200px;"><img style="float: left;" src="images/bilder/7vanas-midnattsbla-189x300.jpg" alt="billiga urnor" width="100" height="160" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/8vanas-svart-189x300.jpg" alt="" width="100" height="149" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/9Vanas-allmogegra-189x300.jpg" alt="" width="106" height="155" border="0" /></td> </tr> <tr> <td> <p><strong>Vanås midnattsblå</strong></p> </td> <td> <p><strong>Vanas svart</strong></p> </td> <td> <p><strong>Vanås allmogegrå</strong></p> </td> </tr>
+<tr> <td style="width: 200px;"><img style="float: left;" src="images/bilder/7vanas-midnattsbla-189x300.jpg" alt="billiga urnor" width="100" height="160" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/8vanas-svart-189x300.jpg" alt="" width="100" height="149" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/9vanas-allmogegra-189x300.jpg" alt="" width="106" height="155" border="0" /></td> </tr> <tr> <td> <p><strong>Vanås midnattsblå</strong></p> </td> <td> <p><strong>Vanas svart</strong></p> </td> <td> <p><strong>Vanås allmogegrå</strong></p> </td> </tr>
 
-<tr> <td style="width: 200px;"><img style="float: left;" src="images/bilder/10Vanas-lindblomsgron-189x300.jpg" alt="billiga urnor" width="100" height="160" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/11Vanas-duvbla-189x300.jpg" alt="" width="100" height="149" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/12Vanas-puderrosa-189x300.jpg" alt="" width="106" height="155" border="0" /></td> </tr> <tr> <td> <p><strong>Vanås lindblomsgrön</strong></p> </td> <td> <p><strong>Vanås duvblå</strong></p> </td> <td> <p><strong>Vanås puderrosa</strong></p> </td> </tr>
+<tr> <td style="width: 200px;"><img style="float: left;" src="images/bilder/10vanas-lindblomsgron-189x300.jpg" alt="billiga urnor" width="100" height="160" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/11vanas-duvbla-189x300.jpg" alt="" width="100" height="149" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/12vanas-puderrosa-189x300.jpg" alt="" width="106" height="155" border="0" /></td> </tr> <tr> <td> <p><strong>Vanås lindblomsgrön</strong></p> </td> <td> <p><strong>Vanås duvblå</strong></p> </td> <td> <p><strong>Vanås puderrosa</strong></p> </td> </tr>
 
-<tr> <td style="width: 200px;"><img style="float: left;" src="images/bilder/13Vanas-kritvit-189x300.jpg" alt="billiga urnor" width="100" height="160" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/14Vanas-ljus-ekfaner-189x300.jpg" alt="" width="100" height="149" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/15Vanas-mork-ekfaner-189x300.jpg" alt="" width="106" height="155" border="0" /></td> </tr> <tr> <td> <p><strong>Vanås kritvit</strong></p> </td> <td> <p><strong>Vanås ljus ekfaner</strong></p> </td> <td> <p><strong>Vanås mörk ekfaner</strong></p> </td> </tr>
+<tr> <td style="width: 200px;"><img style="float: left;" src="images/bilder/13vanas-kritvit-189x300.jpg" alt="billiga urnor" width="100" height="160" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/14vanas-ljus-ekfaner-189x300.jpg" alt="" width="100" height="149" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/15vanas-mork-ekfaner-189x300.jpg" alt="" width="106" height="155" border="0" /></td> </tr> <tr> <td> <p><strong>Vanås kritvit</strong></p> </td> <td> <p><strong>Vanås ljus ekfaner</strong></p> </td> <td> <p><strong>Vanås mörk ekfaner</strong></p> </td> </tr>
 
-<tr>
-<td style="width: 200px;"><img style="float: left;" src="images/bilder/16Torup-natur-189x300.jpg" alt="billiga urnor" width="100" height="160" border="0" /></td>
-<td style="width: 200px;"><img style="float: left;" src="images/bilder/17Torup-antikbrun-189x300.jpg" alt="" width="100" height="149" border="0" /></td>
-<td style="width: 200px;"><img style="float: left;" src="images/bilder/18Torup-vit-lasyr-189x300.jpg" alt="" width="106" height="155" border="0" /></td>
-</tr>
-<tr>
-<td>
-<p><strong>Torup natur</strong></p>
-</td>
-<td>
-<p><strong>Torup antikbrun</strong></p>
-</td>
-<td>
-<p><strong>Torup vit lasyr</strong></p>
-</td>
-</tr>
+<tr> <td style="width: 200px;"><img style="float: left;" src="images/bilder/16torup-natur-189x300.jpg" alt="billiga urnor" width="100" height="160" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/17torup-antikbrun-189x300.jpg" alt="" width="100" height="149" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/18torup-vit-lasyr-189x300.jpg" alt="" width="106" height="155" border="0" /></td> </tr> <tr> <td> <p><strong>Torup natur</strong></p> </td> <td> <p><strong>Torup antikbrun</strong></p> </td> <td> <p><strong>Torup vit lasyr</strong></p> </td> </tr>
 
-<tr>
-<td style="width: 200px;"><img style="float: left;" src="images/bilder/19Torup-ekbets-189x300.jpg" alt="billiga urnor" width="100" height="160" border="0" /></td>
-<td style="width: 200px;"><img style="float: left;" src="images/bilder/20Torup-hasselbrun-189x300.jpg" alt="" width="100" height="149" border="0" /></td>
-<td style="width: 200px;"><img style="float: left;" src="images/bilder/21Torup-solidvit-189x300.jpg" alt="" width="106" height="155" border="0" /></td>
-</tr>
-<tr>
-<td>
-<p><strong>Torup ekbets</strong></p>
-</td>
-<td>
-<p><strong>Torup hasselbrun</strong></p>
-</td>
-<td>
-<p><strong>Torup solidvit</strong></p>
-</td>
-</tr>
+<tr> <td style="width: 200px;"><img style="float: left;" src="images/bilder/19torup-ekbets-189x300.jpg" alt="billiga urnor" width="100" height="160" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/20torup-hasselbrun-189x300.jpg" alt="" width="100" height="149" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/21torup-solidvit-189x300.jpg" alt="" width="106" height="155" border="0" /></td> </tr> <tr> <td> <p><strong>Torup ekbets</strong></p> </td> <td> <p><strong>Torup hasselbrun</strong></p> </td> <td> <p><strong>Torup solidvit</strong></p> </td> </tr>
 
 <tr> <td style="width: 200px;"><img style="float: left;" src="images/bilder/22Torup-midnattsbla-189x300.jpg" alt="billiga urnor" width="100" height="160" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/23Torup-svart-189x300.jpg" alt="" width="100" height="149" border="0" /></td> <td style="width: 200px;"><img style="float: left;" src="images/bilder/24Torup-allmogegra-189x300.jpg" alt="" width="106" height="155" border="0" /></td> </tr> <tr> <td> <p><strong>Torup midnattsblå</strong></p> </td> <td> <p><strong>Torup svart</strong></p> </td> <td> <p><strong>Torup allmogegrå</strong></p> </td> </tr>
 
