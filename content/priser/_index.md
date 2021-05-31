@@ -27,8 +27,8 @@ på ABC Lilla begravningsbyrån tagit fram några prisexempel.
 
 Vi finns här för er.
 
-
-             <table class="table">
+        <div class="table-responsive">
+           <table class="table">
             <thead>
                 <tr></tr>
             </thead>
@@ -240,5 +240,7 @@ Vi finns här för er.
                     <td class="text-nowrap">1490:-</td>
                 </tr>
             </tbody>
-        </table>    
+        </table>
+        </div>
+    
 <p><iframe style="border: 0; display: block;" src="https://widget.reco.se/v2/widget/1626775?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no"></iframe></p>
