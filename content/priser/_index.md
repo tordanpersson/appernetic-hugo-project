@@ -24,12 +24,8 @@ på ABC Lilla begravningsbyrån tagit fram några prisexempel.
 Önskar ni en mer exklusiv begravning med exempelvis en dyrare kista eller om det är något annat ni vill att vi står till tjänst med så ordnar vi det.
 
 Vi finns här för er.
-
-        <div class="table-responsive">
-           <table class="table">
-            <thead>
-                <tr></tr>
-            </thead>
+        
+           <table class="table">  
             <tbody>
                 <tr>
                     <td>Miljökista i Papp<br></td>
@@ -238,7 +234,6 @@ Vi finns här för er.
                     <td class="text-nowrap">1490:-</td>
                 </tr>
             </tbody>
-        </table>
-        </div>
+        </table>     
     
 <p><iframe style="border: 0; display: block;" src="https://widget.reco.se/v2/widget/1626775?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no"></iframe></p>
