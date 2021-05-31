@@ -2,9 +2,7 @@
 title: Priser
 date: 2018-03-03T17:17:17.000+00:00
 slug: priser
-tags:
-- iot
-- recycling
+tags: []
 categories:
 - begravningen
 layout: subsection
