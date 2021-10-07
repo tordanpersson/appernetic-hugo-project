@@ -16,7 +16,7 @@ description: ''
 path="img" file="begravningstockholm.jpg"
 alt="Bouppteckningar" type="right" >}}
 
-Vi hjälper dig med bouppteckningar, grundpriset är 5.900 kr. Om det tar längre tid än tre timmar debiteras ytterligare 890 kr i timmen.
+Vi hjälper dig med bouppteckningar, grundpriset är 5.900 kr. Om det tar längre tid än tre timmar debiteras ytterligare 990 kr i timmen.
 
 Enligt lag ska en bouppteckning förrättas senast tre månader efter ett dödsfall. Samtliga dödsbodelägare, efterarvingar och efterlevande make eller sambo ska lämnas möjlighet att tillsammans träffas på ett förrättningsmöte för att sammanställa den avlidnes och den efterlevandes tillgångar och skulder som de såg ut på dödsdagen.
 
