@@ -17,19 +17,6 @@ Vi har _urnor_ i Stockholm med olika former, material och prisnivåer. Från _bi
 
 <table class="table">
 <tbody>
-<tr>
-<td style="width: 200px;"><img style="float: left;" src="images/bilder/dsc01869_fri.png" alt="billiga urnor" width="100" height="149" border="0" /></td>
-
-<td style="width: 200px;"><img style="float: left;" src="images/bilder/dsc02010_fri.png" alt="" width="100" height="149" border="0" /></td>
-</tr>
-<tr>
-<td  colspan="1">
-<p><strong>Tygdraperad </strong>vit urna<strong> Pris 990:- </strong></p>
-<td>
-<p><strong>Model 210</strong> finns laserad i  grått, blå-svart. <strong>Pris 1 190:-</strong></p>
-<p><strong> </strong></p>
-</td>
-</tr>
 
 <tr>
 <td><img style="float: left;" src="images/bilder/dsc02005_fri.png" alt="" width="114" height="160" border="0" /></td>
@@ -69,20 +56,6 @@ Vi har _urnor_ i Stockholm med olika former, material och prisnivåer. Från _bi
 <td style="width: 200px;" colspan="3">
 <p><strong>Miljöurna</strong>, finns i olika färger. <strong>Pris 790:-</strong></p>
 <p> </p>
-</td>
-</tr>
-<tr>
-<td style="width: 200px;"><img style="float: left; border: 0px none;" src="images/bilder/barkurna_svart.png" alt="" width="100" height="170" border="0" /></td>
-<td colspan="3"><img style="float: left; border: 0px none;" src="images/bilder/ask1-30kgro-0756.jpg" alt="" width="100" height="160" border="0" /></td>
-</tr>
-<tr>
-<td style="width: 200px;" colspan="1">
-<p><strong>Barkurna</strong>, finns i svart och brunröd. <strong>Pris 1 290:-</strong></p>
-<p> </p>
-</td>
-<td colspan="2">
-<p><strong>Delta</strong>, finns i grön eller vit med kors eller flamma. <strong>Pris 1 390:-</strong></p>
-<p><strong> </strong></p>
 </td>
 </tr>
 
