@@ -24,7 +24,6 @@ på ABC Lilla begravningsbyrån tagit fram några prisexempel.
 Önskar ni en mer exklusiv begravning med exempelvis en dyrare kista eller om det är något annat ni vill att vi står till tjänst med så ordnar vi det.
 
 Vi finns här för er.
-
         <table class="table">
             <thead>
                 <tr></tr>
@@ -247,6 +246,4 @@ Vi finns här för er.
                     <td class="text-nowrap" style="width: 50;height: 50;">:-<img src="/images/bilder/dsc02010_fri.png" style="width: 50;height: 50;"></td>
                 </tr>
             </tbody>
-        </table>
-
-<p><iframe style="border: 0; display: block;" src="https://widget.reco.se/v2/widget/1626775?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no"></iframe></p>
+        </table><p><iframe style="border: 0; display: block;" src="https://widget.reco.se/v2/widget/1626775?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no"></iframe></p>
