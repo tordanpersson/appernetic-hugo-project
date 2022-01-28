@@ -35,11 +35,11 @@ Du kan även anlita oss för begravningar i resten av landet. Då tillkommer mil
 
 Vi gör även om ni så önskar hembesök.
 
-## Brommakontoret vid Brommaplan, Stopvägen 78
+## Brommakontoret vid Brommaplan, Bergslagsvägen 35
 
 ABC Lilla begravningsbyrån Bromma
 
-Stopvägen 78
+Bergslagsvägen 35
 
 Möteskontor efter överenskommelse, även kvällsmöten.
 
