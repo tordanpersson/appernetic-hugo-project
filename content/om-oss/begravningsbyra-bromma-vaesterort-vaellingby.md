@@ -30,4 +30,4 @@ Solna, Huddinge, Botkyrka, Danderyd, Ekerö, Haninge, Järfälla, Lidingö, Nack
 
 Nynäshamn, Salem, Sollentuna, Solna, Sundbyberg, Södertälje, Tyresö, Täby, Upplands Väsby, Vallentuna, Värmdö, Österåker.
 
-Dock kan det bli fråga om en extra milkostnad á 95:- milen  om kyrkan eller kapellet ligger mer än två mil från centrala Stockholm.
+Dock kan det bli fråga om en extra milkostnad á 120:- milen  om kyrkan eller kapellet ligger mer än två mil från centrala Stockholm.
