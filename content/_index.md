@@ -4,7 +4,7 @@ title: Begravningsbyrå Stockholm - Begravning | ABC Lilla begravningsbyrå
 description: Begravning i Stockholm? Vi på ABC Lilla begravningsbyrån hjälper er att
   planera begravningen. Vi hjälper er med allt som hör begravningen till. Se mer här!
 aliases:
-- /401.md/
+- "/401.md/"
 
 ---
 # Begravningsbyrå i Stockholm
@@ -41,7 +41,7 @@ En begravning kan i princip kosta hur mycket pengar som helst. Men vi skräddars
 
 Den enklaste begravningen man kan genomföra är en så kallad [Direktkremation utan ceremoni](https://xn--abclillabegravningsbyrn-58b.se/priser/ "Priser"). Detta innebär att vi på ABC lilla begravningsbyrån hämtar den avlidna på bårhuset och transporterar denne till krematoriet för en kremation.
 
-Vi hade en ceremoni där de anhöriga gjorde på detta sätt. De hade då en liten ceremoni i trädgården där en vän till familjen spelade gitarr och sjöng. Det ABC Lilla begravningsbyrån ställde upp med förutom direktkremationen (5.900:-) var att vi ordnade en officiant (3.400:-) som i samråd med de anhöriga skapade ett minnesvärt avsked. I detta fall hämtade vi även ut urnan och lämnade tillbaka den till krematoriet efter akten. De anhöriga tog blommor från trädgården som dekoration runt hyrurnan (390:-) och de bjöd sedan gästerna på lite kaffe och tårta i trädgården medan de tillsammans tittade i fotoalbum och delade minnen.
+Vi hade en ceremoni där de anhöriga gjorde på detta sätt. De hade då en liten ceremoni i trädgården där en vän till familjen spelade gitarr och sjöng. Det ABC Lilla begravningsbyrån ställde upp med förutom direktkremationen (5.990:-) var att vi ordnade en officiant (3.400:-) som i samråd med de anhöriga skapade ett minnesvärt avsked. I detta fall hämtade vi även ut urnan och lämnade tillbaka den till krematoriet efter akten. De anhöriga tog blommor från trädgården som dekoration runt hyrurnan (390:-) och de bjöd sedan gästerna på lite kaffe och tårta i trädgården medan de tillsammans tittade i fotoalbum och delade minnen.
 
 Beroende på vad ni vill göra med askan är det enklaste att gravsätta den i en minneslund. Detta är ett anonymt och kostnadsfritt alternativ. Som anhörig får ni ej närvara och inte heller få reda på var i minneslunden den avlidna är gravsatt.
 
