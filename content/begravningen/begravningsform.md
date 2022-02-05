@@ -30,4 +30,4 @@ Man kan även ordna en **ceremoni i egen regi**.
 
 Då beställer man en kremation utan ceremoni. Efter det hämtar ni själva askan vid krematoriet för att ha en akt med urna i valfri lokal/hemma hos någon.
 
-Kostnaden för detta skulle då bli 5900:-, det som sen kan tillkomma är om man vill ha en urna, blommor, minnesstund eller annons.  Detta är ju kostnader som man själv bestämmer över.
+Kostnaden för detta skulle då bli 5990:-. Det som sen kan tillkomma är om man vill ha en urna, blommor, minnesstund eller annons.  Detta är ju kostnader som man själv bestämmer över.
