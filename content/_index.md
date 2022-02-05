@@ -45,7 +45,7 @@ Vi hade en ceremoni där de anhöriga gjorde på detta sätt. De hade då en lit
 
 Beroende på vad ni vill göra med askan är det enklaste att gravsätta den i en minneslund. Detta är ett anonymt och kostnadsfritt alternativ. Som anhörig får ni ej närvara och inte heller få reda på var i minneslunden den avlidna är gravsatt.
 
-Ni kan även sprida askan i havet. I detta fall måste man ansöka om tillstånd från Länsstyrelsen.
+Ni kan även sprida askan i havet. I detta fall ska man ansöka om tillstånd från Länsstyrelsen.
 
 Ett annat alternativ är en Askgravlund eller en Askgravplats, ett mellanting mellan minneslund och en vanlig grav.
 Kostnad för det brukar ligga på ca: 3.000-9.000:- (inklusive inskription) beroende på vilken Kyrkogårdsförvaltning det är.
