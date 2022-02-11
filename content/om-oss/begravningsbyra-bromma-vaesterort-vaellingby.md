@@ -1,5 +1,5 @@
 ---
-title: Brommakontoret vid Brommaplan, Stopvägen 78
+title: Brommakontoret vid Brommaplan, Bergslagsvägen 35
 description: ''
 date: 2018-03-06
 updated: 2018-04-01
