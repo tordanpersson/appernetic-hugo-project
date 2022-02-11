@@ -43,8 +43,9 @@ Vi leverar prisvärda och billiga begravningskistor. En billig begravningskista 
 <td><img style="float: left;" src="images/bilder/18.Högtorn-solidvit-stor-1-1-768x348.jpg" alt="" width="350" height="144" border="0" /></td><td><img style="float: left;" src="images/bilder/19.Högtorn-mahogny-stor-1-1-768x337.jpg" alt="" width="350" height="144" _order="0" /></td></tr><tr><td><p><strong>Högtorn Solidvit</strong></p></td><td><p><strong>Högtorn Mahogny</strong></p></td></tr>  
 <tr>  
 <td><p style="font-size:20px;"><strong>Pris 8290:-</strong></p><img style="float: left;" src="images/bilder/20.Ekenäs-ljus-stor-1-768x365.jpg" alt="" width="350" height="144" border="0" /></td><td><p style="font-size:20px;"><strong></strong></p><img style="float: left;" src="images/bilder/21.Ekenäs-mörk-stor-1-768x374.jpg" alt="" width="350" height="144" _order="0" /></td></tr><tr><td><p><strong>Ekenäs Ljus</strong></p></td><td><p><strong>Ekenäs Mörk</strong></p></td></tr  
-<tr><td colspan="3">Bildernas färgåtergivning kan skilja sig från de verkliga färgerna. </td></tr></tbody></table>  
-<p><iframe style="border: 0; display: block;" src="[https://widget.reco.se/v2/widget/1626775?mode=HORIZONTAL_QUOTE](https://widget.reco.se/v2/widget/1626775?mode=HORIZONTAL_QUOTE "https://widget.reco.se/v2/widget/1626775?mode=HORIZONTAL_QUOTE")" width="100%" height="225" scrolling="no"></iframe></p>  
+<tr><td colspan="3">Bildernas färgåtergivning kan skilja sig från de verkliga färgerna. </td></tr></tbody></table> 
+<p><iframe style="border: 0; display: block;" src="https://widget.reco.se/v2/widget/1626775?mode=HORIZONTAL_QUOTE" width="100%" height="225" scrolling="no"></iframe></p>
+
 Begravningskistor  
 Lågpriskistorna, den billigaste begravningskista vi har är en enkel obehandlad furukista. Man kan lägga på ett så kallat bårtäcke över en billig begravningskista under ceremonin. Kyrkan och kapellen lånar i regel ut sådana täcken gratis, men då får man i regel ej lägga blommor på dessa på den billiga kistan. Vi på ABC har egna bårtäcken i olika färger som man kan hyra för 290 kr för att lägga på kistan under ceremonin. Vi kan även betsa och måla en billig furukista. Det går också bra att beställa fina lackade kistor av oss, från 5.990 kr  
 En av anledningarna till att vi kan hålla så låga priser på våra kistor är att vi själva importerar dem.  
