@@ -11,7 +11,7 @@ layout: subsection
 
 Med bolaget avses i detta dokument ABC Lilla Begravningsbyrån AB, 556858-8270 ”bolaget” eller ” ABC Lilla Begravningsbyrån AB”.
 
-Bakgrund
+Bakgrund 
 
 Refererande till Europaparlamentets och rådets direktiv (EU) 2016/679 av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter (GDPR), se vidare [https://gdprinfo.eu/sv](https://gdprinfo.eu/sv "https://gdprinfo.eu/sv") . Direktivet har utformats till skydd för den personliga integriteten när det gäller hantering och behandling av personuppgifter. Förordningen kompletteras av lag med kompletterande bestämmelser till EU:s dataskyddsförordning.
 
