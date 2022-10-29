@@ -25,7 +25,7 @@ Vi har urnor i Stockholm med olika former, material och prisnivåer. Från billi
 
 <td style="width: 200px;"><img style="border: 0px none;" src="images/bilder/ask1_010jgro_746.png" alt="" width="100" height="160" border="0" /></td>
 
-<td style="width: 200px;"><img style="vertical-align: middle;" src="images/bilder/ask1_010jvit_0751.png" alt="" widh="100" height="160" border="0" /></td> </tr> <tr> <td colspan="1"> <p><strong>Träurna olika modeller.</strong>. <strong>Pris från 990:-</strong></p>
+<td style="width: 200px;"><img style="vertical-align: middle;" src="images/bilder/ask1_010jvit_0751.png" alt="" widh="100" height="160" border="0" /></td> </tr> <tr> <td colspan="1"> <p><strong>Träurna olika modeller.</strong><strong>Pris från 990:-</strong></p>
 
 <p> </p></td>
 
