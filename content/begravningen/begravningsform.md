@@ -28,6 +28,4 @@ Det krävs ingen utbildning för att leda en borgerlig begravning, i stort sett 
 
 Man kan även ordna en **ceremoni i egen regi**.
 
-Då beställer man en kremation utan ceremoni. Efter det hämtar ni själva askan vid krematoriet för att ha en akt med urna i valfri lokal/hemma hos någon.
-
-Kostnaden för detta skulle då bli 5990:-. Det som sen kan tillkomma är om man vill ha en urna, blommor, minnesstund eller annons.  Detta är ju kostnader som man själv bestämmer över.
+Önskar ni själva ordna med en ceremoni, exempelvis en akt med urna. Så höjer vi byråarvodet med 1000:- totalt 7990:- och är er då behjälplig med alla kontakter och beställningar. Det som sen kan tillkomma är om man vill ha en urna, blommor, minnesstund eller annons.  Detta är ju kostnader som man själv bestämmer över.
