@@ -46,5 +46,3 @@ Bolaget har lämpliga tekniska och organisatoriska åtgärder för att skydda de
 ABC Lilla Begravningsbyrån AB använder sig av Windows som kundhanteringssystem samt etablerad mejlklient samt internetsäkerhet med lösenordsskydd, och uppdatering tillämpas vid all hantering genom system. Bolaget använder sig inte av "molnet".
 
 Mer information om Bolagets handhavande av GDPR, vänligen kontakta oss på telefon eller mail.
-
-### 
