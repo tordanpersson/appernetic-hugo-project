@@ -1,20 +1,4 @@
-# exampleSite/config.yaml
-#
-# Configuration file for the demonstration of the Hugo-smorg theme,
-# mobile-first, responsive theme for the Hugo static site generator.
-# https://gohugo.io/
-
-# IMPORTANT:
-# themesDir is needed only to run exampleSite in-place; comment out or delete
-# this line for regular theme use:
-#themesDir: "../.."
-
-# Mandatory $.Site Variables ---------------------------------------------
-# Site variables are built-in to the Hugo application and can be accessed using
-# the {{ $.Site.variablename }} template directive.
-#
-# Every site needs these few: theme, baseURL, languageCode and title
-# Name of the theme your Hugo site uses; leave this in place:
+---
 markup:
   goldmark:
     extensions:
@@ -33,259 +17,147 @@ markup:
       hardWraps: false
       unsafe: true
       xHTML: false
-
-theme: "hugo-smorg"
-baseURL: "https://xn--abclillabegravningsbyrn-58b.se/"
-languageCode: "sv-SE"
-title: "ABC Lilla Begravningsbyrån"
-
-
-# Optional $.Site Variables ----------------------------------------------
-# More info on Site variables; https://gohugo.io/getting-started/configuration/
-#
-# Optional variables can be edited or commented out as desired.
-#
-# author name appears in RSS and Atom feeds;
-# author email address is optional and can be # commented out.
+theme: hugo-smorg
+baseURL: https://xn--abclillabegravningsbyrn-58b.se/
+languageCode: sv-SE
+title: ABC Lilla Begravningsbyrån
 author:
-    name: "ABC Lilla Begravningsbyrån AB"
-    email: "abcbegravning@gmail.com"
-
-# copyright appears in the default site footer
-copyright: "&copy; ABC Lilla Begravningsbyrån AB 2018, ABC Lilla begravningsbyrån AB, Skönviksvägen 244, 122 42 Enskede, tel 08-648 76 55"
-
-# metaDataFormat for new content pages generated with the `hugo new` command if
-# not otherwise specified by an archetype. Hugo-Smorg theme examples all use
-# the easy to understand and write YAML format.
+  name: ABC Lilla Begravningsbyrån AB
+  email: abcbegravning@gmail.com
+copyright: "&copy; ABC Lilla Begravningsbyrån AB 2018, ABC Lilla begravningsbyrån
+  AB, Skönviksvägen 244, 122 42 Enskede, tel 08-648 76 55"
 metaDataFormat: yaml
-
-# summaryLength limits the number of words included in auto-generated page
-# summaries Manual control of summaries is possible using the <!--more-->
-# directive in content files. https://gohugo.io/content-management/summaries/
 summaryLength: 20
-
-# paginate sets the maximum number of items (pages) in a page listing.
-paginate: 2  # set very low for demo purposes only, 5 - 10 or more would be reasonable
-
-# GoogleAnalytics offers deep insight into how visitors use your site. It's
-# optional, and free: https://www.google.com/analytics/analytics/
-# Only uncomment if you have a GA UD:
-GoogleAnalytics: "UA-102282722-1" # add your UA-nnn-nnnnnnnn ID and uncomment
-
-# Disqus is a popular commenting system; to get an account visit:
-# https://disqus.com/admin/create/`
-# Uncommenting will result in Disqus capability extended to each blog post.
-# disqusShortname: "yourdiscussshortname"
-
-# Code oriented optional features:
-# pygments variables tune code syntax highlighting features Hugo provides
+paginate: 2
+GoogleAnalytics: UA-102282722-1
 pygmentsUseClasses: true
 pygmentsCodefencesGuessSyntax: true
 pygmentsCodefences: true
-
-# enableGitInfo populates a .GitInfo object for each git-managed page
-# The theme does not currently make use of the information.
 enableGitInfo: false
-
-# enableRobotsTXT: <false> enables generation of site robots.txt from
-# front-matter directives. Many sites may prefer to create a robots.txt file in
-# the site content directory.
 enableRobotsTXT: true
-
-# enableEmoji: <false> enables Emoji rendering see:
-# https://www.webpagefx.com/tools/emoji-cheat-sheet/
 enableEmoji: false
-
-
-
-
-
-
-
-
-# Optional Features ------------------------------------------------------
-
-# $.Site.Params variables are user-definable; the Hugo-Smorg theme makes use of
-# a number of variables to enable a certain amount of customization without
-# requiring editing of templates. See `docs/customizing.md` for more
-# information.
-
-# Access in templates via $.Site.Params.somevariablename
 params:
-    # debug: true causes template path to be output at top of page, handy for dev
-    debug: false
-
-    favicon: true
-    # cssPath: <css/smorg.css> site main CSS; can be supplemented by including
-    # link or style elements in a custom site partials/head-custom.html
-    cssPath: 'css/smorg.min.css' # Default, override here
-
-    # only_feed_summaries: Include only Page summaries in Atom and RSS feeds.
-    only_feed_summaries: true
-
-    # fullname: Used in head and footer partials; Atom and RSS generation.
-    # JSON-LD microdata for search engines
-    fullname: "ABC Lilla Begravningsbyrån"
-
-    home: "En Begravningsbyrån" # title for the front page
-
-    # Description: Used per fullname.
-    description: "ABC Lilla begravningsbyrån i Stockholm, vi erbjuder begravning för lägre priser i Stockholm. En begravningsbyrå i Stockholm för dig. Vi hjälper Er med allt som hör begravningen till. ABC Lilla begravningsbyrån, Stockholm är en prisvärd billig begravningsbyrå och kan erbjuda tjänster till låg kostnad."
-
-    # Sites should customize their logo or wordmark here; Provided via partials/logo.html.
-    # used in default navigation and footer.
-    logotype: '<img src="img/abclogga.png">'
-    footer: 'Organisationsnummer: 556858-8270'
-    subfooter: ' '
-
-    # Optional information used in RSS, Atom and JSON-LD microdata. See Schema.org.
-    publisher:
-        # Type must be either "Organization" or "Person"
-        type: Organization
-        name: ABC Lilla Begravningsbyrån
-        logo: img/abclogga.png
-
-
-# Primary Navigation Menu (partials/nav.html) ----------------------------
-
-# The exampleSite menu exploses About, Projects and Blog
-# Note that "About" is added to the menu within content/about.md - it's
-# not a true "section" like post and project, although you can change this.
-
-# NOTE: Don't put leading "/" in the url parameter
+  debug: false
+  favicon: true
+  cssPath: css/smorg.min.css
+  only_feed_summaries: true
+  fullname: ABC Lilla Begravningsbyrån
+  home: En Begravningsbyrån
+  description: ABC Lilla begravningsbyrån i Stockholm, vi erbjuder begravning för
+    lägre priser i Stockholm. En begravningsbyrå i Stockholm för dig. Vi hjälper Er
+    med allt som hör begravningen till. ABC Lilla begravningsbyrån, Stockholm är en
+    prisvärd billig begravningsbyrå och kan erbjuda tjänster till låg kostnad.
+  logotype: <img src="img/abclogga.png">
+  footer: 'Organisationsnummer: 556858-8270'
+  subfooter: " "
+  publisher:
+    type: Organization
+    name: ABC Lilla Begravningsbyrån
+    logo: img/abclogga.png
 menu:
-    sectionmenu:
-        - name: "Om oss"
-          url: "om-oss/"
-          identifier: "om-oss"
-          weight: 50
-
-        - name: "Begravningsbyrå Bromma, Västerort, Vällingby, Södermalm, Norrmalm, Kungsholmen, Vasastan, Gamla stan, Östermalm, Järfälla, Spånga, Sundbyberg, Solna, Sollentuna, Huddinge, Ekerö, Haninge, Botkyrka, Danderyd, Lidingö, Nacka, Nynäshamn, Salem, Tyresö
-"
-          url: "om-oss/begravningsbyra-bromma-vaesterort-vaellingby/"
-          parent: "om-oss"
-          weight: 502
-
-        - name: "Rekommendationer"
-          parent: "om-oss"
-          url: "om-oss/rekommendationer/"
-          weight: 501
-
-
-        - name: "Begravningen"
-          url: "begravningen/"
-          identifier: "begravningen"
-          weight: 20
-
-        - name: "Begravningsform"
-          url: "begravningen/begravningsform/"
-          parent: "begravningen"
-          weight: 201
-
-        - name: "Att se den döde"
-          url: "begravningen/att-se-den-doede/"
-          parent: "begravningen"
-          weight: 202
-
-        - name: "Ceremonin"
-          url: "begravningen/ceremonin/"
-          parent: "begravningen"
-          weight: 203
-
-        - name: "Tiden efter"
-          url: "begravningen/tiden-efter/"
-          parent: "begravningen"
-          weight: 204
-
-        - name: "Kremationsbegravning"
-          url: "begravningen/kremationsbegravning/"
-          parent: "begravningen"
-          weight: 205
-
-
-        - name: "Vad gör jag nu?"
-          url: "begravningen/vad-goer-jag-nu/"
-          parent: "begravningen"
-          weight: 206
-
-        - name: "Dödsfallet"
-          url: "begravningen/doedsfallet/"
-          parent: "begravningen"
-          weight: 207
-
-        - name: "Det praktiska"
-          url: "begravningen/det-praktiska/"
-          parent: "begravningen"
-          weight: 208
-
-
-        - name: "Kontakt"
-          url: "kontakt/"
-          identifier: "kontakt"
-          weight: 10
-
-        - name: "Hitta hit"
-          url: "kontakt/hitta-hit/"
-          parent: "kontakt"
-          weight: 101
-
-        - name: "Kontaktformulär"
-          url: "kontakt/kontaktformular/"
-          parent: "kontakt"
-          weight: 102
-
-        - name: "Priser"
-          url: "priser/"
-          identifier: "priser"
-          weight: 30
-
-        - name: "Kistor"
-          url: "priser/kistor/"
-          parent: "priser"
-          weight: 301
-
-        - name: "Urnor"
-          url: "priser/urnor/"
-          parent: "priser"
-          weight: 302
-
-        - name: "Juridik"
-          url: "juridik/"
-          identifier: "juridik"
-          weight: 40
-
-        - name: "Bouppteckningar"
-          url: "juridik/bouppteckningar/"
-          parent: "juridik"
-          weight: 401
-
-        - name: "Testamente"
-          url: "juridik/testamente/"
-          parent: "juridik"
-          weight: 402
-
-        - name: "Min sista vilja"
-          url: "juridik/min-sista-vilja/"
-          parent: "juridik"
-          weight: 403
-
-        - name: "Partners"
-          url: "partners/"
-          identifier: "partners"
-          weight: 60
-
-        - name: "Gravstenar"
-          url: "gravstenar/"
-          identifier: "gravstenar"
-          weight: 70
-
-# Syndication feeds atom.xml and rss.xml ---------------------------------
-# Adds Atom feed support in conjunction with /layouts/index.atom.xml
-# Change default rss filename to rss.xml, layout is built in to Hugo
+  sectionmenu:
+  - url: om-oss/begravningsbyra-bromma-vaesterort-vaellingby/
+    name: 'Begravningsbyrå Bromma, Västerort, Vällingby, Södermalm, Norrmalm, Kungsholmen,
+      Vasastan, Gamla stan, Östermalm, Järfälla, Spånga, Sundbyberg, Solna, Sollentuna,
+      Huddinge, Ekerö, Haninge, Botkyrka, Danderyd, Lidingö, Nacka, Nynäshamn, Salem,
+      Tyresö '
+    parent: Om oss
+    weight: 2
+  - url: om-oss/rekommendationer/
+    name: Rekommendationer
+    parent: Om oss
+    weight: 1
+  - url: gravstenar/
+    name: Gravstenar
+    weight: 7
+    identifier: gravstenar
+  - url: partners/
+    name: Partners
+    weight: 6
+    identifier: partners
+  - url: juridik/min-sista-vilja/
+    name: Min sista vilja
+    parent: juridik
+    weight: 22
+  - url: juridik/testamente/
+    name: Testamente
+    parent: juridik
+    weight: 21
+  - url: juridik/bouppteckningar/
+    name: Bouppteckningar
+    parent: juridik
+    weight: 20
+  - url: juridik/
+    name: Juridik
+    weight: 4
+    identifier: juridik
+  - url: priser/urnor/
+    name: Urnor
+    parent: priser
+    weight: 19
+  - url: priser/kistor/
+    name: Kistor
+    parent: priser
+    weight: 18
+  - url: priser/
+    name: Priser
+    weight: 3
+    identifier: priser
+  - url: kontakt/kontaktformular/
+    name: Kontaktformulär
+    parent: kontakt
+    weight: 9
+  - url: kontakt/hitta-hit/
+    name: Hitta hit
+    parent: kontakt
+    weight: 8
+  - url: kontakt/
+    name: Kontakt
+    weight: 1
+    identifier: kontakt
+  - url: begravningen/det-praktiska/
+    name: Det praktiska
+    parent: begravningen
+    weight: 17
+  - url: begravningen/doedsfallet/
+    name: Dödsfallet
+    parent: begravningen
+    weight: 16
+  - url: begravningen/vad-goer-jag-nu/
+    name: Vad gör jag nu?
+    parent: begravningen
+    weight: 15
+  - url: begravningen/kremationsbegravning/
+    name: Kremationsbegravning
+    parent: begravningen
+    weight: 14
+  - url: begravningen/tiden-efter/
+    name: Tiden efter
+    parent: begravningen
+    weight: 13
+  - url: begravningen/ceremonin/
+    name: Ceremonin
+    parent: begravningen
+    weight: 12
+  - url: begravningen/att-se-den-doede/
+    name: Att se den döde
+    parent: begravningen
+    weight: 11
+  - url: begravningen/begravningsform/
+    name: Begravningsform
+    parent: begravningen
+    weight: 10
+  - url: begravningen/
+    name: Begravningen
+    weight: 2
+    identifier: begravningen
+  - url: om-oss/
+    name: Om oss
+    weight: 5
+    identifier: om-oss
 mediaTypes:
   application/atom:
     suffixes: xml
-
 outputFormats:
   Atom:
     mediaType: application/atom
@@ -293,13 +165,8 @@ outputFormats:
   RSS:
     mediaType: application/rss
     baseName: rss
-
 outputs:
   home:
-    - HTML
-    - Atom
-    - RSS
-
-# Optional, disable RSS feed
-#disableKinds:
-  #- RSS
+  - HTML
+  - Atom
+  - RSS
