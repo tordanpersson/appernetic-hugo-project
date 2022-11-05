@@ -3,10 +3,6 @@ title: Om oss
 description: ''
 date: 2018-03-07T02:16:58.000-08:00
 layout: subsection
-menu:
-  sectionmenu:
-    identifier: om-oss
-    weight: 5
 
 ---
 # Om oss

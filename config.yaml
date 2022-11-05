@@ -56,101 +56,109 @@ params:
     logo: img/abclogga.png
 menu:
   sectionmenu:
+  - url: GDPR/
+    name: GDPR
+    parent: Om oss
+    weight: 3
+  - url: om-oss/
+    name: Om oss
+    weight: 5
+    identifier: om-oss
   - url: om-oss/begravningsbyra-bromma-vaesterort-vaellingby/
     name: 'Begravningsbyrå Bromma, Västerort, Vällingby, Södermalm, Norrmalm, Kungsholmen,
       Vasastan, Gamla stan, Östermalm, Järfälla, Spånga, Sundbyberg, Solna, Sollentuna,
       Huddinge, Ekerö, Haninge, Botkyrka, Danderyd, Lidingö, Nacka, Nynäshamn, Salem,
       Tyresö '
     parent: Om oss
-    weight: 3
+    weight: 2
   - url: om-oss/rekommendationer/
     name: Rekommendationer
     parent: Om oss
-    weight: 2
-  - url: gravstenar/
-    name: Gravstenar
-    weight: 7
-    identifier: gravstenar
-  - url: partners/
-    name: Partners
-    weight: 6
-    identifier: partners
-  - url: juridik/min-sista-vilja/
-    name: Min sista vilja
-    parent: juridik
-    weight: 22
-  - url: juridik/testamente/
-    name: Testamente
-    parent: juridik
-    weight: 21
-  - url: juridik/bouppteckningar/
-    name: Bouppteckningar
-    parent: juridik
-    weight: 20
-  - url: juridik/
-    name: Juridik
-    weight: 4
-    identifier: juridik
-  - url: priser/urnor/
-    name: Urnor
-    parent: priser
-    weight: 19
-  - url: priser/kistor/
-    name: Kistor
-    parent: priser
-    weight: 18
-  - url: priser/
-    name: Priser
-    weight: 3
-    identifier: priser
-  - url: kontakt/kontaktformular/
-    name: Kontaktformulär
-    parent: kontakt
-    weight: 9
-  - url: kontakt/hitta-hit/
-    name: Hitta hit
-    parent: kontakt
-    weight: 8
-  - url: kontakt/
-    name: Kontakt
     weight: 1
-    identifier: kontakt
-  - url: begravningen/det-praktiska/
-    name: Det praktiska
-    parent: begravningen
-    weight: 17
-  - url: begravningen/doedsfallet/
-    name: Dödsfallet
-    parent: begravningen
-    weight: 16
-  - url: begravningen/vad-goer-jag-nu/
-    name: Vad gör jag nu?
-    parent: begravningen
-    weight: 15
-  - url: begravningen/kremationsbegravning/
-    name: Kremationsbegravning
-    parent: begravningen
-    weight: 14
-  - url: begravningen/tiden-efter/
-    name: Tiden efter
-    parent: begravningen
-    weight: 13
-  - url: begravningen/ceremonin/
-    name: Ceremonin
-    parent: begravningen
-    weight: 12
-  - url: begravningen/att-se-den-doede/
-    name: Att se den döde
-    parent: begravningen
-    weight: 11
-  - url: begravningen/begravningsform/
-    name: Begravningsform
-    parent: begravningen
-    weight: 10
   - url: begravningen/
     name: Begravningen
     weight: 2
     identifier: begravningen
+  - url: begravningen/begravningsform/
+    name: Begravningsform
+    parent: begravningen
+    weight: 10
+  - url: begravningen/att-se-den-doede/
+    name: Att se den döde
+    parent: begravningen
+    weight: 11
+  - url: begravningen/ceremonin/
+    name: Ceremonin
+    parent: begravningen
+    weight: 12
+  - url: begravningen/tiden-efter/
+    name: Tiden efter
+    parent: begravningen
+    weight: 13
+  - url: begravningen/kremationsbegravning/
+    name: Kremationsbegravning
+    parent: begravningen
+    weight: 14
+  - url: begravningen/vad-goer-jag-nu/
+    name: Vad gör jag nu?
+    parent: begravningen
+    weight: 15
+  - url: begravningen/doedsfallet/
+    name: Dödsfallet
+    parent: begravningen
+    weight: 16
+  - url: begravningen/det-praktiska/
+    name: Det praktiska
+    parent: begravningen
+    weight: 17
+  - url: kontakt/
+    name: Kontakt
+    weight: 1
+    identifier: kontakt
+  - url: kontakt/hitta-hit/
+    name: Hitta hit
+    parent: kontakt
+    weight: 8
+  - url: kontakt/kontaktformular/
+    name: Kontaktformulär
+    parent: kontakt
+    weight: 9
+  - url: priser/
+    name: Priser
+    weight: 3
+    identifier: priser
+  - url: priser/kistor/
+    name: Kistor
+    parent: priser
+    weight: 18
+  - url: priser/urnor/
+    name: Urnor
+    parent: priser
+    weight: 19
+  - url: juridik/
+    name: Juridik
+    weight: 4
+    identifier: juridik
+  - url: juridik/bouppteckningar/
+    name: Bouppteckningar
+    parent: juridik
+    weight: 20
+  - url: juridik/testamente/
+    name: Testamente
+    parent: juridik
+    weight: 21
+  - url: juridik/min-sista-vilja/
+    name: Min sista vilja
+    parent: juridik
+    weight: 22
+  - url: partners/
+    name: Partners
+    weight: 6
+    identifier: partners
+  - url: gravstenar/
+    name: Gravstenar
+    weight: 7
+    identifier: gravstenar
 mediaTypes:
   application/atom:
     suffixes: xml
