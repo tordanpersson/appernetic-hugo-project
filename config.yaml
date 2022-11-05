@@ -151,10 +151,6 @@ menu:
     name: Begravningen
     weight: 2
     identifier: begravningen
-  - url: om-oss/
-    name: Om oss
-    weight: 5
-    identifier: om-oss
 mediaTypes:
   application/atom:
     suffixes: xml
