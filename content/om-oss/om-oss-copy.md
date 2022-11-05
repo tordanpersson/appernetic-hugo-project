@@ -3,7 +3,6 @@ title: GDPR
 description: ''
 date: 2018-03-07T02:16:58.000-08:00
 layout: subsection
-draft: true
 
 ---
 # **Hantering av personuppgifter enligt GDPR för ABC Lilla Begravningsbyrån AB**
