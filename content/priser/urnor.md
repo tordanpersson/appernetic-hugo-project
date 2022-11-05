@@ -11,30 +11,6 @@ description: 'Vi har urnor i Stockholm i många olika stilar. Från enkla & bill
   urnor till exklusiva urnor i fina material. Se våra urnor här! '
 
 ---
-\---
-
-title: Billiga urnor från ABC Lilla Begravningsbyrån
-
-slug: Urnor
-
-date: 2018-03-03T17:17:17+00:00
-
-tags:
-
-\- recycling
-
-categories:
-
-\- begravningen
-
-layout: subsection
-
-description: 'Vi har urnor i Stockholm i många olika stilar. Från enkla & billiga
-
-  urnor till exklusiva urnor i fina material. Se våra urnor här! '
-
-\---
-
 Hitta billiga urnor hos oss
 
 Vi har urnor i Stockholm med olika former, material och prisnivåer. Från billiga urnor och dyrare urnor i exklusivare utförande. Urnor köper du i samband med att du bokar begravningsceremoni.
