@@ -56,14 +56,14 @@ params:
     logo: img/abclogga.png
 menu:
   sectionmenu:
+  - url: GDPR/
+    name: GDPR
+    parent: Om oss
+    weight: 23
   - url: om-oss
     name: Om oss
     parent: Om oss
     weight: 1
-  - url: GDPR/
-    name: GDPR
-    parent: Om oss
-    weight: 4
   - url: om-oss/
     name: Om oss
     weight: 5
