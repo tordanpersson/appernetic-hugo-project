@@ -61,7 +61,7 @@ menu:
       Vasastan, Gamla stan, Östermalm, Järfälla, Spånga, Sundbyberg, Solna, Sollentuna,
       Huddinge, Ekerö, Haninge, Botkyrka, Danderyd, Lidingö, Nacka, Nynäshamn, Salem,
       Tyresö '
- - url: om-oss/   
+  - url: om-oss/   
     name: Om oss
     weight: 3
     identifier: om-oss
