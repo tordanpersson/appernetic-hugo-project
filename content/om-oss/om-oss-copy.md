@@ -5,7 +5,7 @@ date: 2018-03-07T02:16:58.000-08:00
 layout: subsection
 menu:
   sectionmenu:
-    weight: 3
+    weight: 4
     parent: Om oss
 
 ---

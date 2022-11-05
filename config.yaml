@@ -62,11 +62,11 @@ menu:
       Huddinge, Ekerö, Haninge, Botkyrka, Danderyd, Lidingö, Nacka, Nynäshamn, Salem,
       Tyresö '
     parent: Om oss
-    weight: 2
+    weight: 3
   - url: om-oss/rekommendationer/
     name: Rekommendationer
     parent: Om oss
-    weight: 1
+    weight: 2
   - url: gravstenar/
     name: Gravstenar
     weight: 7
