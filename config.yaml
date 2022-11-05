@@ -56,10 +56,14 @@ params:
     logo: img/abclogga.png
 menu:
   sectionmenu:
+  - url: om-oss
+    name: Om oss
+    parent: Om oss
+    weight: 1
   - url: GDPR/
     name: GDPR
     parent: Om oss
-    weight: 3
+    weight: 4
   - url: om-oss/
     name: Om oss
     weight: 5
@@ -70,11 +74,11 @@ menu:
       Huddinge, Ekerö, Haninge, Botkyrka, Danderyd, Lidingö, Nacka, Nynäshamn, Salem,
       Tyresö '
     parent: Om oss
-    weight: 2
+    weight: 3
   - url: om-oss/rekommendationer/
     name: Rekommendationer
     parent: Om oss
-    weight: 1
+    weight: 2
   - url: begravningen/
     name: Begravningen
     weight: 2
