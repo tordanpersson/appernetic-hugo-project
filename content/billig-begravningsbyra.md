@@ -22,7 +22,7 @@ Med hjälp av oss på ABC Lilla begravningsbyrån Stockholm, kan Du välja att g
 
 Vi på ABC Lilla begravningsbyrån Stockholm, en billig begravningsbyrå, vill göra begravningen till ett fint minne av er anhörig eller vän till en rimlig kostnad. Vi erbjuder begravningar med hög kvalitet till låga priser.
 
-### Begravning utan ceremoni 5.900 kr inkl. moms
+### Begravning utan ceremoni 6990 kr inkl. moms
 
 [**Se fler prisexempel på begravning**](priser)
 
