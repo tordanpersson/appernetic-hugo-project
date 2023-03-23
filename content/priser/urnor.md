@@ -1,7 +1,7 @@
 ---
 title: Billiga urnor från ABC Lilla Begravningsbyrån
 slug: Urnor
-date: 2018-03-03T17:17:17+00:00
+date: 2018-03-03T17:17:17.000+00:00
 tags:
 - recycling
 categories:
@@ -77,7 +77,7 @@ Vi har urnor i Stockholm med olika former, material och prisnivåer. Från billi
 
 <td style="width: 200px;" colspan="3">
 
-<p><strong>Miljöurna</strong>, finns i olika färger. <strong>Pris 790:-</strong></p>
+<p><strong>Miljöurna</strong>, finns i olika färger. <strong>Pris 890:-</strong></p>
 
 <p> </p>
 
