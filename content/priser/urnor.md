@@ -77,7 +77,7 @@ Vi har urnor i Stockholm med olika former, material och prisnivåer. Från billi
 
 <td style="width: 200px;" colspan="3">
 
-<p><strong>Miljöurna</strong>, finns i olika färger. <strong>Pris 890:-</strong></p>
+<p><strong>Miljöurna</strong>, finns i olika färger. <strong>Pris 990:-</strong></p>
 
 <p> </p>
 
